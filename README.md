@@ -50,11 +50,12 @@ In this project, we are going to build a Multilingual TED corpus with the named 
 7. transcripts
     - All outputs from scraping will be stored in this folder, under individual language folders.
     - Each subfolder `annotated` contains the annotated version of the original corpus.
-    - The English corpus with the final annotaiton can be found [here](https://github.ubc.ca/iameleve/COLX_523_Group2/tree/master/transcripts/en/final).
+    - The English corpus with the final annotaiton can be found [here](/transcripts/en/final).
 
 ## Corpus Collection
 
-**NOTE**: All codes for collecting the corpus are in [TranscriptScrape.ipynb](https://github.ubc.ca/iameleve/COLX_523_Group2/blob/master/src/TranscriptScrape.ipynb). There is no separated file for milestone1 and milestone2. 
+**NOTE**: All codes for collecting the corpus are in [TranscriptScrape.ipynb](/src/TranscriptScrape.ipynb). 
+There is no separated file for milestone1 and milestone2. 
 
 To scrape transcripts from the scratch, 
 
