@@ -5,11 +5,11 @@ Building a named entity annotated parallel corpus across multiple languages base
 
 ## Project Goal
 
-In this project, we are going to build a Multilingual TED corpus with the named entity annotation. The corpus will be a collection of transcripts from TED videos including TEDx talks and TED-Ed across all genres, aiming to collect the transcripts in three different languages (English, Korean, and Chinese (simplified)), with the possibility of extending to French and Spanish. The final corpus will have named entity annotation for each language data. The details of the project can be found here: [project proposal](Milestone_1/Group2_Project_Proposal.md)
+In this project, we are going to build a Multilingual TED corpus with the named entity annotation. The corpus will be a collection of transcripts from TED videos including TEDx talks and TED-Ed across all genres, aiming to collect the transcripts in three different languages (English, Korean, and Chinese (simplified)), with the possibility of extending to French and Spanish. The final corpus will have named entity annotation for each language data. The details of the project can be found here: [project proposal](/Milestone_1/Project_Proposal.md)
 
 ## Annotated English Corpus
-- The final version of English corpus after annotations from spaCy and correction with AMT workers can be found [here](https://github.ubc.ca/iameleve/COLX_523_Group2/tree/master/transcripts/en/final).
-- The Korean and Chinese parallel corpora corresponding to the English corpus can be found here: [Korean corpus](https://github.ubc.ca/iameleve/COLX_523_Group2/blob/master/transcripts/ko/filtered/filtered_annotated_ted_talks_ko.json) [Chinese corpus](https://github.ubc.ca/iameleve/COLX_523_Group2/blob/master/transcripts/zh-cn/filtered/filtered_annotated_ted_talks_cn.json)
+- The final version of English corpus after annotations from spaCy and correction with AMT workers can be found [here](/transcripts/en/final).
+- The Korean and Chinese parallel corpora corresponding to the English corpus can be found here: [Korean corpus](/transcripts/ko/filtered/filtered_annotated_ted_talks_ko.json) [Chinese corpus](/transcripts/zh-cn/filtered/filtered_annotated_ted_talks_cn.json)
 
 ## Folders
 
