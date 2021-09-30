@@ -9,7 +9,9 @@ In this project, we are going to build a Multilingual TED corpus with the named 
 
 ## Annotated English Corpus
 - The final version of English corpus after annotations from spaCy and correction with AMT workers can be found [here](/transcripts/en/final).
-- The Korean and Chinese parallel corpora corresponding to the English corpus can be found here: [Korean corpus](/transcripts/ko/filtered/filtered_annotated_ted_talks_ko.json) [Chinese corpus](/transcripts/zh-cn/filtered/filtered_annotated_ted_talks_cn.json)
+- The Korean and Chinese parallel corpora corresponding to the English corpus can be found here:
+ [Korean corpus](/transcripts/ko/filtered/filtered_annotated_ted_talks_ko.json) 
+ [Chinese corpus](/transcripts/zh-cn/filtered/filtered_annotated_ted_talks_cn.json)
 
 ## Folders
 
