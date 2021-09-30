@@ -1,5 +1,5 @@
 
-# COLX Project Group2
+# NER on TED transcripts
 
 Building a named entity annotated parallel corpus across multiple languages based on TED transcripts
 
