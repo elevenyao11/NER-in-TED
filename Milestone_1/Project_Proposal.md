@@ -1,4 +1,4 @@
-<h1><p align="center">Project Proposal (Group 2)</p></h1>
+<h1><p align="center">Project Proposal </p></h1>
 
 <p align="center"><b>Teammates - Jin, Gurpreet, Ladan, Yundong</b></p>
 
