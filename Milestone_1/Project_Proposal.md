@@ -1,6 +1,5 @@
 <h1><p align="center">Project Proposal </p></h1>
 
-<p align="center"><b>Teammates - Jin, Gurpreet, Ladan, Yundong</b></p>
 
 <h1><p align="center">Named Entity Annotated Multilingual Parallel Corpus<br>over<br>TED Transcripts</p></h1>
 
