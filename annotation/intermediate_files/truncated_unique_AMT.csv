@@ -1,0 +1,661 @@
+talk_id,para_id,entity_id,before,entities,after,label
+0,0,0," Aesthetically speaking, there's a world of difference between, say, ",Beethoven,"and Justin Bieber, but both artists have used the same building blocks to create their music: notes",PERSON
+0,0,1," Aesthetically speaking, there's a world of difference between, say, Beethoven and ",Justin Bieber, but both artists have used the same building blocks to create their music: notes,PERSON
+1,0,1," Which ends up being heard as the main beat is not a precise rule, but like the famous ",Rubin,"s vase, can be reversed depending on cultural perception",PERSON
+1,0,12," This is the basis of the music of Whirling Dervishes, as well as a broad range of Latin American rhythms, such as Joropo, and even ",Bach,s famous Chaconne,PERSON
+1,0,13," This is the basis of the music of Whirling Dervishes, as well as a broad range of Latin American rhythms, such as Joropo, and even Bach's famous ",Chaconne," Now if we remember Rubin's vase and hear the off beats as the main beats, this will give us a six-eight feel, as found in genres such as Chacarera, and Quechua, Persian music and more",PERSON
+1,0,16," Now if we remember Rubin's vase and hear the off beats as the main beats, this will give us a six-eight feel, as found in genres such as ",Chacarera," and Quechua, Persian music and more",ORG
+1,0,17," Now if we remember Rubin's vase and hear the off beats as the main beats, this will give us a six-eight feel, as found in genres such as Chacarera, and ",Quechua, Persian music and more,LOC
+1,0,23," This rhythmic configuration is found as the Cuban cinquillo, in the Puerto Rican bomba, and in ",Northern Romanian,music,LOC
+1,0,25, And rotating the outer circle 90 degrees counterclockwise gives us a pattern often found in ,Middle Eastern,"music, as well as Brazilian choro, and Argentinian tango",LOC
+3,0,1, So how does practice or repetition affect the inner workings of our brains? The axons that exist in the white matter are wrapped with a fatty substance called ,myelin," And it's this myelin covering, or sheath, that seems to change with practice",ORG
+3,0,3, ,Myelin,is similar to insulation on electrical cables,ORG
+3,0,10," Laptops, smartphones, and particularly ",Facebook,were the root of most distractions,ORG
+3,0,16, ,Group A,physically practiced one-handed free throws while Group B only mentally practiced them,PERSON
+3,0,19," In the meantime, effective practice is the best way we have of pushing our individual limits, achieving ",new heights, and maximizing our potential,LOC
+4,14,5," I do all of this with drafting templates, with straight edges, with French curves, and by freehand, and the 72 feet was actually split into 12 six-foot-wide panels that were installed around ",the Cantor Arts Center Museum,"lobby balcony, and it appeared for one year in the museum, and during that year, it was experienced as visual art most of the week, except, as you can see in these pictures, on Fridays, from noon til one, and only during that time, various performers came and interpreted these strange and undefined pictographic glyphs",ORG
+4,17,2, I took the ,Copenhagen,"subway map and I renamed all the stations to abstract musical provocations, and the players, who are synchronized with stopwatches, follow the timetables, which are listed in minutes past the hour",ORG
+4,33,1," And I'll perform just an excerpt of """,Aphasia, for you here,WORK_OF_ART
+5,17,6," Actually, he is quite well known in the ",Boston,"area — mentors people at the hospital and children, locally, in how to make their own music",LOC
+5,17,7, And I'll let ,Adam,tell you,PERSON
+5,17,9," So, Adam is a ",Ph.D.,"student at MIT, an expert in music technology and medicine",WORK_OF_ART
+5,17,10, student at ,MIT, an expert in music technology and medicine,ORG
+5,17,12, And Adam and ,Dan,have become close collaborators,PERSON
+5,22,4," In fact, this is the score for Dan's piece, completely composed by Dan in ",Hyperscore, So he can use his infrared tracker to go directly into Hyperscore,LOC
+5,22,5, So he can use his infrared tracker to go directly into ,Hyperscore," He's incredibly fast at it, too, faster than I am, in fact",ORG
+5,28,1,"TM: OK, now Dan will play his piece ""","My Eagle Song"" for you", (Applause),WORK_OF_ART
+5,29,0,TM: ,Bravo, (Applause),PERSON
+6,5,6, How did this piece of 18th century Austrian aristocratic entertainment turn into the victory crow of this ,New York,kid? How was that passed on? How did he get to hear Mozart?,LOC
+6,5,7, How did this piece of 18th century Austrian aristocratic entertainment turn into the victory crow of this New York kid? How was that passed on? How did he get to hear ,Mozart,,PERSON
+6,34,0,"And of course, ",the New World Symphony,led to the YouTube Symphony and projects on the internet that reach out to musicians and audiences all over the world,ORG
+6,34,1,"And of course, the New World Symphony led to ",the YouTube Symphony,and projects on the internet that reach out to musicians and audiences all over the world,ORG
+7,0,1, The ancient Greek philosopher ,Plato,explored the idea that we love in order to become complete,ORG
+7,0,2," In his """,Symposium,", he wrote about a dinner party, at which Aristophanes, a comic playwright, regales the guests with the following story: humans were once creatures with four arms, four legs, and two faces",WORK_OF_ART
+7,0,7," One day, they angered the gods, and ",Zeus,sliced them all in two,PERSON
+7,0,10," Love is the longing to find a soulmate who'll make us feel whole again, or, at least, that's what ",Plato,believed a drunken comedian would say at a party,PERSON
+7,0,12," Much, much later, German philosopher ",Arthur Schopenhauer,maintained that love based in sexual desire was a voluptuous illusion,PERSON
+7,0,13, According to ,the Nobel Prize,"winning British philosopher Bertrand Russell, we love in order to quench our physical and psychological desires",WORK_OF_ART
+7,0,15, According to the Nobel Prize-winning British philosopher ,Bertrand Russell, we love in order to quench our physical and psychological desires,PERSON
+7,0,16, ,Love,"s delight, intimacy, and warmth helps us overcome our fear of the world, escape our lonely shells, and engage more abundantly in life",PERSON
+7,0,17, ,Siddhārtha Gautama," who became known as the Buddha, or the Enlightened One, probably would have had some interesting arguments with Russell",PERSON
+7,0,18," Siddhārtha Gautama, who became known as the ",Buddha," or the Enlightened One, probably would have had some interesting arguments with Russell",PERSON
+7,0,19," Siddhārtha Gautama, who became known as the Buddha, or the Enlightened One, probably would have had some interesting arguments with ",Russell, Buddha proposed that we love because we are trying to satisfy our base desires,PERSON
+7,0,23," Luckily, Buddha discovered the eight-fold path, a sort of program for extinguishing the fires of desire so that we can reach ",Nirvana," an enlightened state of peace, clarity, wisdom, and compassion",PERSON
+7,0,24, The novelist ,Cao Xueqin,"illustrated this Buddhist sentiment that romantic love is folly in one of China's greatest classical novels, ""Dream of the Red Chamber",PERSON
+7,0,27, The novelist Cao Xueqin illustrated this Buddhist sentiment that romantic love is folly in one of ,China,"s greatest classical novels, ""Dream of the Red Chamber",LOC
+7,0,28," The novelist Cao Xueqin illustrated this Buddhist sentiment that romantic love is folly in one of China's greatest classical novels, ""Dream of ",the Red Chamber,""" In a subplot, Jia Rui falls in love with Xi-feng who tricks and humiliates him",ORG
+7,0,29,""" In a subplot, ",Jia Rui,falls in love with Xi-feng who tricks and humiliates him,PERSON
+7,0,30,""" In a subplot, Jia Rui falls in love with ",Xi-feng,who tricks and humiliates him,PERSON
+7,0,31," Conflicting emotions of love and hate tear him apart, so a ",Taoist,gives him a magic mirror that can cure him as long as he doesn't look at the front of it,ORG
+7,0,35, The French philosopher ,Simone de Beauvoir, proposed that love is the desire to integrate with another and that it infuses our lives with meaning,ORG
+7,0,36," To avoid this trap, ",Beauvoir,"advised loving authentically, which is more like a great friendship",PERSON
+8,19,11," It's shown being presented here, put into its case by the director of the National Museum of Tehran, one of the many women in ",Iran,"in very senior positions, Mrs",LOC
+8,19,12, ,Ardakani, It was a huge event,PERSON
+8,19,13, It's seen in ,Tehran,by between one and two million people in the space of a few months,LOC
+8,19,16, This is beyond any blockbuster exhibition in the ,West," And it's the subject of a huge debate about what this cylinder means, what Cyrus means, but above all, Cyrus as articulated through this cylinder — Cyrus as the defender of the homeland, the champion, of course, of Iranian identity and of the Iranian peoples, tolerant of all faiths",LOC
+8,19,17," And it's the subject of a huge debate about what this cylinder means, what ",Cyrus,"means, but above all, Cyrus as articulated through this cylinder — Cyrus as the defender of the homeland, the champion, of course, of Iranian identity and of the Iranian peoples, tolerant of all faiths",PERSON
+8,19,23," And in the current Iran, ",Zoroastrians,"and Christians have guaranteed places in the Iranian parliament, something to be very, very proud of",LOC
+8,21,7, It certainly says far more about real freedoms than ,Magna Carta," It is a document that can mean so many things, for Iran and for the region",ORG
+8,22,3," In New York this autumn, it will be present when the great debates about the future of ",the Middle East,take place,LOC
+8,22,6," And what story of the Middle East, what story of the world, do you want to see reflecting what is said, what is expressed in this cylinder? The right of peoples to live together in the same state, worshiping differently, freely — ",a Middle East," a world, in which religion is not the subject of division or of debate",LOC
+8,23,1," But I think it's possible that the most powerful and the wisest voice of all of them may well be the voice of this mute thing, the ",Cyrus,cylinder,ORG
+9,6,21, Thirty-three go on ,the Silk Road,"to China, South Asia and Southeast Asia",ORG
+9,6,22," Thirty-three go on the Silk Road to China, ",South Asia,and Southeast Asia,LOC
+9,6,23," Thirty-three go on the Silk Road to China, South Asia and ",Southeast Asia," And 33 are spread between Europe, the Middle East and Africa",LOC
+9,6,25, And 33 are spread between ,Europe, the Middle East and Africa,LOC
+9,6,27," And 33 are spread between Europe, the Middle East and ",Africa,,LOC
+9,43,16, This is ,Islam,s influence on Hinduism and Judaism,ORG
+9,43,17, This is Islam's influence on ,Hinduism,and Judaism,ORG
+9,43,19, But what do the students in ,Kuwait,say? They said it's us — and this is dangerous,LOC
+9,49,0,"Just today, ",D.C. Comics,announced the cover of our upcoming crossover,ORG
+9,49,1, On that cover you see ,Batman," Superman and a fully-clothed Wonder Woman with our Saudi member of The 99, our Emirati member and our Libyan member",PERSON
+9,49,2," On that cover you see Batman, ",Superman,"and a fully-clothed Wonder Woman with our Saudi member of The 99, our Emirati member and our Libyan member",PERSON
+9,49,3," On that cover you see Batman, Superman and a fully-clothed ",Wonder Woman,"with our Saudi member of The 99, our Emirati member and our Libyan member",ORG
+9,49,6," On that cover you see Batman, Superman and a fully-clothed Wonder Woman with our Saudi member of The 99, our ",Emirati,member and our Libyan member,ORG
+9,49,9," On April 26, 2010, President ",Barack Obama,said that of all the initiatives since his now famous Cairo speech — in which he reached out to the Muslim world — the most innovative was that The 99 reach back out to the Justice League of America,PERSON
+9,49,10," On April 26, 2010, President Barack Obama said that of all the initiatives since his now famous ",Cairo,speech — in which he reached out to the Muslim world — the most innovative was that The 99 reach back out to the Justice League of America,LOC
+9,49,13," On April 26, 2010, President Barack Obama said that of all the initiatives since his now famous Cairo speech — in which he reached out to the Muslim world — the most innovative was that The 99 reach back out to ",the Justice League of America," We live in a world in which the most culturally innocuous symbols, like the falafel, can be misunderstood because of baggage, and where religion can be twisted and purposefully made where it's not supposed to be by others",ORG
+10,23,7," And he knew very intuitively, that best practices, developed in Japan and China and Europe and ",America,will not work in India,LOC
+10,23,8," And he knew very intuitively, that best practices, developed in Japan and China and Europe and America will not work in ",India, He knew that institutional thinking doesn't work in India,LOC
+10,28,1, Who sees it all? ,Varuna,has but a thousand eyes,LOC
+10,28,3, ,Indra, a hundred,PERSON
+11,0,0,"Hello, my name is ",Christian Rudder, and I was one of the founders of OkCupid,PERSON
+11,0,1,"Hello, my name is Christian Rudder, and I was one of the founders of ",OkCupid, It's now one of the biggest dating sites in the United States,LOC
+11,0,3, It's now one of the biggest dating sites in ,the United States," Like most everyone at the site, I was a math major, As you may expect, we're known for the analytic approach we take to love",LOC
+11,0,6, The math behind ,OkCupid,s matching algorithm is surprisingly simple,ORG
+11,0,14, For everything that ,OkCupid,"asks you, you have a chance to tell us the role it plays in your life",PERSON
+11,0,57, That 94 percent is your match percentage with ,B. It's,"a mathematical expression of how happy you'd be with each other, based on what we know",PERSON
+12,0,0," How do you really know you exist? In his """,Meditations on First Philosophy,""" René Descartes tried to answer that very question, demolishing all his preconceived notions and opinions to begin again from the foundations",WORK_OF_ART
+12,0,1," How do you really know you exist? In his ""Meditations on First Philosophy,"" ",René Descartes,"tried to answer that very question, demolishing all his preconceived notions and opinions to begin again from the foundations",PERSON
+12,0,2, ,Descartes,asks if you can disprove the idea that an evil genius demon has tricked you into believing reality is real,PERSON
+12,0,3," Life is but a dream, and I bet you aren't row, ",row," rowing the boat merrily at all, are you? No, you're rowing it wearily like the duped, nonexistent doof you are/aren't",PERSON
+12,0,4," Life is but a dream, and I bet you aren't row, row, rowing the boat merrily at all, are you? No, you're rowing it wearily like the duped, nonexistent ",doof,you are/aren't,PERSON
+13,4,8," 8 in E Flat Major"" by ",Gustav Mahler, This is Mahler,PERSON
+13,4,9," 8 in E Flat Major"" by Gustav Mahler) This is ",Mahler," It looks like Bob Dylan, but it's Mahler",PERSON
+13,4,10, It looks like ,Bob Dylan, but it's Mahler,PERSON
+13,4,12, That was ,Bob,"s last record, yeah",PERSON
+13,7,6," (Music: ""My Funny Valentine"" by ",Chet Baker, This is Chet Baker,PERSON
+13,12,2," And birds like this Savannah sparrow, they tend to have a buzzing (Sound clip: ",Savannah,sparrow song) type call,PERSON
+13,12,3, The tananger on ,the East Coast,"of the United States, where the forests are a little denser, has one kind of call, and the tananger on the other side, on the west (Sound clip: Scarlet tanager song) has a different kind of call",LOC
+13,14,0,"The writer, ",Thomas Frank," says that this might be a kind of explanation why some voters vote against their best interests, that voters, like a lot of us, assume, that if they hear something that sounds like it's sincere, that it's coming from the gut, that it's passionate, that it's more authentic",PERSON
+14,10,1," (Woo-hoo-hoo-hoo) (Laughter) It's kind of a funny, ",goofy,sound to do,LOC
+14,17,0," I'm going to do """,Lush Life,""" It's one of my favorite tunes to play",WORK_OF_ART
+16,5,0,,Herbie Hancock:,Thank you,PERSON
+16,5,1, ,Marcus Miller, (Applause) Harvey Mason,PERSON
+16,5,2, (Applause) ,Harvey Mason, (Applause),ORG
+17,0,1," This group includes humans, cats, dogs, giraffes, and even the blue whale, the biggest animal on ",Earth," Its placenta, a solid disk of blood-rich tissue, attaches to the wall of the uterus to support the developing embryo",LOC
+17,0,5," Meanwhile, in ",Australia, you can find a second type of mammal - marsupials,LOC
+18,10,16," But what is enveloping Machu Picchu from below? The sacred river, the ",Urubamba," or the Vilcanota, which is itself the Earthly equivalent of the Milky Way, but it's also the trajectory that Viracocha walked at the dawn of time when he brought the universe into being",ORG
+18,10,17," But what is enveloping Machu Picchu from below? The sacred river, the Urubamba, or the ",Vilcanota," which is itself the Earthly equivalent of the Milky Way, but it's also the trajectory that Viracocha walked at the dawn of time when he brought the universe into being",PRODUCT
+18,10,18," But what is enveloping Machu Picchu from below? The sacred river, the Urubamba, or the Vilcanota, which is itself the ",Earthly,"equivalent of the Milky Way, but it's also the trajectory that Viracocha walked at the dawn of time when he brought the universe into being",PERSON
+18,10,19," But what is enveloping Machu Picchu from below? The sacred river, the Urubamba, or the Vilcanota, which is itself the Earthly equivalent of the Milky Way, but it's also the trajectory that ",Viracocha,walked at the dawn of time when he brought the universe into being,PERSON
+18,10,20, And where does the river rise? Right on the slopes of the ,Koariti,,PERSON
+18,14,10," When I first met Danilo, in the Colombian embassy in ",Washington," I couldn't help but say, ""You know, you look a lot like an old friend of mine",LOC
+18,14,11,""" Well, it turns out he was the son of my friend, ",Adalberto," from 1974, who had been killed by the FARC",LOC
+18,14,13,""" Well, it turns out he was the son of my friend, Adalberto, from 1974, who had been killed by the ",FARC," And I said, ""Danilo, you won't remember this, but when you were an infant, I carried you on my back, up and down the mountains",ORG
+18,14,14," And I said, """,Danilo," you won't remember this, but when you were an infant, I carried you on my back, up and down the mountains",PERSON
+18,18,4," And yet tragically, when you now go to those northern communities, you find to your astonishment that whereas the sea ice used to come in in September and stay till July, in a place like ",Kanak,"in northern Greenland, it literally comes in now in November and stays until March",PERSON
+18,18,5," And yet tragically, when you now go to those northern communities, you find to your astonishment that whereas the sea ice used to come in in September and stay till July, in a place like Kanak in northern ",Greenland, it literally comes in now in November and stays until March,LOC
+19,21,4, That's how they printed them in the old ,Bibles, And their argument is that Jesus never talked about homosexuality,PERSON
+19,21,5, And their argument is that ,Jesus,never talked about homosexuality,PERSON
+19,21,8, I recommend ,Jim Wallis,and Tony Campolo,PERSON
+19,21,9, I recommend Jim Wallis and ,Tony Campolo," They're very inspiring leaders, even though I disagree with much of what they say",PERSON
+19,23,2," So, it's about choosing the parts of the ",Bible,"about compassion, about tolerance, about loving your neighbor, as opposed to the parts about homosexuality is a sin, or intolerance, or violence, which are very much in the Bible as well",WORK_OF_ART
+20,3,0,,Angella Ahn, Thank you,PERSON
+20,3,1," What you just heard is """,Skylife, by David Balakrishnan,WORK_OF_ART
+20,3,2," What you just heard is ""Skylife"" by ",David Balakrishnan, We want to play you one more selection,PERSON
+20,3,4, It's by Astor ,Piazzolla, an Argentine composer,PERSON
+20,3,8," So this is """,Oblivion, by Astor Piazzolla,ORG
+21,7,8," Kiwis are, and so are these hawks trapped near ",Antarctica,,LOC
+21,11,3," And where it doesn't, as in Greenland in winter, ",Mars,is still not very far,LOC
+22,14,4, They were created by a ,Kuwaiti,psychologist called Naif Al Mutawa,ORG
+22,14,5, They were created by a Kuwaiti psychologist called ,Naif Al Mutawa," And his desire is to rescue Islam from images of intolerance, all in a child-friendly format",PERSON
+22,14,9," So, for example, there is the character of ",Noora, She is meant to have the power to look inside people and see the good and bad in everyone,PERSON
+22,14,10, Another character called ,Jami,has the ability to create fantastic inventions,PERSON
+22,17,2," After all, it's the ",Quran,"which encourages us to do this: ""We made you into nations and tribes so that you could learn from one another",PERSON
+23,12,12, And ,David,found that there were many problems that technology could not solve,PERSON
+23,24,7,""" He said, ""When I leave office, I'm going to spend my time writing a book on why ",Jesus Christ,"rose again, and why it's so important to believe that",PERSON
+23,24,9,""" In one of his plays, ",Alexander Solzhenitsyn,"depicts a man dying, who says to those gathered around his bed, ""The moment when it's terrible to feel regret is when one is dying",PERSON
+23,28,3," When I was 17 years of age, I was born and reared on a farm in ",North Carolina," I milked cows every morning, and I had to milk the same cows every evening when I came home from school",LOC
+23,32,0,,Richard Wurman, You did it,PERSON
+24,27,11," In 2009, they had 400,000 employees, by which time the ",U.S.,"employees had moved to 105,000, whereas the Indian employees had gone to 100,000",LOC
+24,28,2," There are 433,000 people now at ",IBM," out of which 98,000 are remaining in the U",ORG
+25,0,0,,♫,I think I'm ready to do my thing ♫,ORG
+25,22,1,"♫ Ring the alarm, hit 'em on ",Skype,or a two-way ♫,ORG
+26,2,11, He was speaking in a very jovial and gregarious way about Yo-Yo Ma and Hillary Clinton and how the Dodgers were never going to make ,the World Series, all because of the treacherous first violin passage work in the last movement of Beethoven's Fourth Symphony,EVENT
+26,2,14," He was speaking in a very jovial and gregarious way about Yo-Yo Ma and Hillary Clinton and how the Dodgers were never going to make the World Series, all because of the treacherous first violin passage work in the last movement of Beethoven's ",Fourth Symphony," And we got talking about music, and I got an email from Steve a few days later saying that Nathaniel was interested in a violin lesson with me",ORG
+26,2,15," And we got talking about music, and I got an email from ",Steve,a few days later saying that Nathaniel was interested in a violin lesson with me,PERSON
+26,2,17," And we got talking about music, and I got an email from Steve a few days later saying that ",Nathaniel,was interested in a violin lesson with me,PERSON
+26,6,7," And we started talking about music, from Bach to Beethoven and ",Brahms," Bruckner, all the B's, from Bartók, all the way up to Esa-Pekka Salonen",PERSON
+26,6,8," And we started talking about music, from Bach to Beethoven and Brahms, ",Bruckner," all the B's, from Bartók, all the way up to Esa-Pekka Salonen",ORG
+26,6,9," And we started talking about music, from Bach to Beethoven and Brahms, Bruckner, all the B's, from ",Bartók, all the way up to Esa-Pekka Salonen,LOC
+26,6,10," And we started talking about music, from Bach to Beethoven and Brahms, Bruckner, all the B's, from Bartók, all the way up to ",Esa-Pekka Salonen,,ORG
+26,9,2," And I will always make music with Nathaniel, whether we're at ",Walt Disney,"Concert Hall or on Skid Row, because he reminds me why I became a musician",ORG
+26,9,3," And I will always make music with Nathaniel, whether we're at Walt Disney ",Concert Hall,"or on Skid Row, because he reminds me why I became a musician",PERSON
+26,9,4," And I will always make music with Nathaniel, whether we're at Walt Disney Concert Hall or on ",Skid Row, because he reminds me why I became a musician,PERSON
+26,10,1, ,Robert Gupta, (Applause),PERSON
+28,11,9," So these are our live subtitles, that are being produced by a computer that knows the text of ""The Ursonate"" — fortunately Jaap does too, very well — and it is delivering that text at the same time as ",Jaap,is,PERSON
+28,19,2, I'm at ,Carnegie Mellon, we've got a great Robotics Institute there,ORG
+28,19,3, I'm at Carnegie Mellon; we've got a great ,Robotics Institute,there,ORG
+28,19,4, I'd like to show you thing called ,Snout, which is — The idea behind this project is to make a robot that appears as if it's continually surprised to see you,LOC
+28,19,5," (Laughter) The idea is that basically — if it's constantly like """,Huh, ,WORK_OF_ART
+28,19,6, ,Huh,""" That's why its other name is Doubletaker, Taker of Doubles",PERSON
+28,19,7," Huh?"" That's why its other name is ",Doubletaker, Taker of Doubles,PERSON
+28,19,8," Huh?"" That's why its other name is Doubletaker, ",Taker of Doubles," It's always kind of doing a double take: ""What?"" And the idea is basically, can it look at you and make you feel as if like, ""What? Is it my shoes?"" ""Got something on my hair?"" Here we go",ORG
+29,35,6," Some years later, I and this woman — we'll call her """,Catherine Fletcher, — (Laughter) — went traveling through the south of Portugal together,PERSON
+29,35,7," Some years later, I and this woman — we'll call her ""Catherine Fletcher"" — (Laughter) — went traveling through the south of ",Portugal,together,LOC
+29,35,8," We stayed in old, crumbling, walled cities, in tiny little hotels, and we would climb up to the roof and drink ",Vinho Verde,and watch the sun set and play checkers,PERSON
+29,35,9," For what it's worth, we went to ",Sagres," which was considered, at the time, to be the end of the world",ORG
+29,41,2,""" He was sure that ",Catherine,would be safe,PERSON
+30,16,1," Actually, I once paid like 60 dollars to see a very great actor to do a version of ","""King Lear",""" and I felt really robbed, because by the time the actor started being King Lear, he stopped being the great actor that I had paid money to see",WORK_OF_ART
+30,16,2," Actually, I once paid like 60 dollars to see a very great actor to do a version of ""King Lear,"" and I felt really robbed, because by the time the actor started being ",King Lear, he stopped being the great actor that I had paid money to see,ORG
+30,16,4," On the other hand, you know, I paid like three dollars, I think — and I went to a warehouse in ",Queens,"to see a version of ""Othello"" by an amateur group",LOC
+30,16,5," On the other hand, you know, I paid like three dollars, I think — and I went to a warehouse in Queens to see a version of """,Othello, by an amateur group,WORK_OF_ART
+30,16,6," And it was quite fascinating, because you know the guy — his name was ",Joey Grimaldi,"— he impersonated the Moorish general — you know, for the first three minutes he was really that general, and then he went back into plumber, he worked as a plumber, so — plumber, general, plumber, general — so for three dollars, I saw two tragedies for the price of one",PERSON
+31,10,17," And then in the interview he said, ""What made Lincoln so great? Not as great a general as Napoleon, not as great a statesman as ",Frederick the Great,""" But his greatness consisted, and historians would roundly agree, in the integrity of his character and the moral fiber of his being",PERSON
+31,12,13," For in the months leading up to my selection, like many young people, I'd been active in the anti-Vietnam War movement, and had written an article against Lyndon Johnson, which unfortunately came out in The New Republic two days after the dance in ",the White House, (Laugher) And the theme of the article was how to remove Lyndon Johnson from power,ORG
+31,12,14, (Laugher) And the theme of the article was how to remove ,Lyndon Johnson,from power,PERSON
+31,24,11,""" But as I left that night, I was certain that somehow I'd traded the life of my everlasting soul for this one night with ",Roy Campanella, (Laughter) And there were no indulgences around that I could buy,PERSON
+31,26,2, Though when the ,Dodgers,abandoned us to come to L,PERSON
+31,26,3, Though when the Dodgers abandoned us to come to ,L.A., I lost faith in baseball until I moved to Boston and became an irrational Red Sox fan,LOC
+31,26,5,", I lost faith in baseball until I moved to Boston and became an irrational ",Red Sox,fan,ORG
+31,26,6," And I must say, even now, when I sit with my sons with our season tickets, I can sometimes close my eyes against the sun and imagine myself, a young girl once more, in the presence of my father, watching the players of my youth on the grassy fields below: ",Jackie Robinson," Roy Campanella, Pee Wee Reese, and Duke Snider",PERSON
+31,26,8," And I must say, even now, when I sit with my sons with our season tickets, I can sometimes close my eyes against the sun and imagine myself, a young girl once more, in the presence of my father, watching the players of my youth on the grassy fields below: Jackie Robinson, Roy Campanella, ",Pee Wee Reese, and Duke Snider,PERSON
+31,26,9," And I must say, even now, when I sit with my sons with our season tickets, I can sometimes close my eyes against the sun and imagine myself, a young girl once more, in the presence of my father, watching the players of my youth on the grassy fields below: Jackie Robinson, Roy Campanella, Pee Wee Reese, and ",Duke Snider,,PERSON
+31,27,0," Allowing me to believe that the private people we have loved and lost in our families, and the public figures we have respected in our history, just as ",Abraham Lincoln,"wanted to believe, really can live on, so long as we pledge to tell and to retell the stories of their lives",PERSON
+32,1,15," Also, three guys working for years in Los Angeles, an Iranian, a Palestinian and an Egyptian, created the aptly named ",Axis of,Evil comedy act,PERSON
+32,3,13," I happened to find a funny guy to present it in Arabic, who is originally Korean, a perfect fit for ",the Axis of Evil, This is all true,WORK_OF_ART
+32,9,10," (Laughter) So, as for the outsiders looking in, watch the CNN report on the second ",Amman Comedy Festival," The reporter did a great job, and I thank her, but somebody forgot to send the positive PR email to the person operating the automatic news ticker that appears at the bottom",EVENT
+32,9,11," For example, when ",Dean,"talks, the ticker says, ""U",PERSON
+32,12,6, One: Is the Middle East being shown in a current time and correct context? (Laughter) Two: Do the Middle Eastern characters laugh or smile without showing the whites of their eyes? (Laughter) Three: Is ,the Middle Eastern,"character being played by one? Clearly, there are wrongs that need to be righted",LOC
+32,13,2," As my father likes to call him, """,Asheikh Azubare,""" as my mother would say, ""Shakespeare",WORK_OF_ART
+32,13,3," As my father likes to call him, ""Asheikh Azubare;"" as my mother would say, """,Shakespeare,""" (Laughter) ""And now we go in content to liberty and not to banishment",PERSON
+33,2,9,""" And then she would take a little bit of the crackers, and she'd go, """,Eww," yuck, crackers",PERSON
+33,36,2," And what happens then is not that our consciousness contracts, it expands, so that those three days in ",Paris,"seem to be more full of consciousness and experience than all the months of being a walking, talking, faculty meeting-attending zombie back home",LOC
+36,3,20, ♫ ♫ Thula ,Mama, Thula Mama,LOC
+36,3,21," ♫ ♫ Thula Mama, ",Thula Mama, ♫,PERSON
+36,6,1,"♫ My song of love and my song of life, my song of love, ",♫ ♫,"my song of life, my song of love, ♫ ♫ my song of life, my song of love — I want everybody to sing with me — ♫ ♫ my song of life, my song of love, my song of life — everybody sing with me — ♫ ♫ my song of life, my song of love — I can’t hear you — ♫ ♫ my song of love, my song of life — you can do better — ♫ ♫ my song of life, my song of love — keep singing, keep singing — ♫ ♫ my song of love, my song of life, yes, my song of love — ♫ ♫ you can do better than that — ♫ ♫ my song of life, yes, my song of love, my song of life, my song of love — ♫ ♫ keep singing, keep singing, keep singing — my song of love",PRODUCT
+36,6,5,"♫ My song of love and my song of life, my song of love, ♫ ♫ my song of life, my song of love, ♫ ♫ my song of life, my song of love — I want everybody to sing with me — ♫ ♫ my song of life, my song of love, my song of life — everybody sing with me — ♫ ♫ my song of life, my song of love — I can’t hear you — ♫ ",♫,"my song of love, my song of life — you can do better — ♫ ♫ my song of life, my song of love — keep singing, keep singing — ♫ ♫ my song of love, my song of life, yes, my song of love — ♫ ♫ you can do better than that — ♫ ♫ my song of life, yes, my song of love, my song of life, my song of love — ♫ ♫ keep singing, keep singing, keep singing — my song of love",PRODUCT
+36,6,14, ,♫,♫ Oh yeah,EVENT
+36,6,15, ,♫ ♫,"Love song, my song of life",EVENT
+36,6,18, ,♫,(Applause),PERSON
+37,26,1,"EZ: Oh, this summer, in fact, the ",Lomonosov,"factory was bought by an American company, invited me",PERSON
+37,26,4," They found out that I had worked in '33 at this factory, and they came to my studio in ",Rockland County, and brought the 15 of their artists to visit me here,LOC
+37,26,9," And since I don't like to travel alone, they also invited my daughter, son-in-law and granddaughter, so we had a lovely trip to see ",Russia,"today, which is not a very pleasant and happy view",LOC
+38,18,10," Four in the Morning — or one of them anyway — Wislawa Szymborska was in Stockholm, ",Sweden, accepting the Nobel Prize for Literature,LOC
+38,18,11," Four in the Morning — or one of them anyway — Wislawa Szymborska was in Stockholm, Sweden, accepting ",the Nobel Prize for Literature, 100 years to the day after the death of Alfred Nobel himself,WORK_OF_ART
+38,18,13, 100 years to the day after the death of ,Alfred Nobel,himself,PERSON
+38,37,7," The first since this man, ",Franklin Delano Roosevelt," who began his own unprecedented journey way back at his own first election, way back in a simpler time, way back in 1932 — (Laughter)",PERSON
+38,40,0,"made """,The Palace at Four in the Morning,""" The year, let's remember, that this voice, now departed, first came a-cryin' into this big old crazy world of ours",WORK_OF_ART
+39,0,10," But in the great scheme of things, it's a pinprick, one of about 400 billion stars in the ",Milky Way,"galaxy, which you can see on a clear night as a pale white mist stretched across the sky",PRODUCT
+39,0,12," So if each star was the size of a single grain of sand, just ",the Milky Way,has enough stars to fill a 30-foot by 30-foot stretch of beach three feet deep with sand,LOC
+39,0,18, ,Holy Stephen Hawking, that is a lot of stars,ORG
+39,0,30, Some physicists think the space-time ,continuum,is literally infinite and that it contains an infinite number of so-called pocket universes with varying properties,PERSON
+39,0,31, How's your brain doing? ,Quantum,theory adds a whole new wrinkle,ORG
+39,0,32," I mean, the theory's been proven true beyond all doubt, but interpreting it is baffling, and some physicists think you can only ",un,"baffle it if you imagine that huge numbers of parallel universes are being spawned every moment, and many of these universes would actually be very like the world we're in, would include multiple copies of you",ORG
+39,0,37," But why don't we see any evidence of it? Well, this is the famous question asked by ",Enrico Fermi,"in 1950: Where is everybody? Conspiracy theorists claim that UFOs are visiting all the time and the reports are just being covered up, but honestly, they aren't very convincing",PERSON
+39,0,40," In the past year, the ",Kepler,space observatory has found hundreds of planets just around nearby stars,ORG
+39,0,61," So, just as on Earth, clunky stereo systems have shrunk to beautiful, tiny ",iPods," maybe intelligent life itself, in order to reduce its footprint on the environment, has turned itself microscopic",PRODUCT
+39,0,62, So ,the Solar System,"might be teeming with aliens, and we're just not noticing them",ORG
+40,1,3, But ,Tod,"couldn't come and the project is sort of somewhere, I'm not sure whether it's happening the way we thought, or not",PERSON
+41,16,12," Just a week ago, ",the National Academy of Engineering,"awarded its Draper Prize to Francis Arnold and Willem Stemmer, two scientists who independently developed techniques to encourage the natural process of evolution to work faster and to lead to desirable proteins in a more efficient way — what Frances Arnold calls ""directed evolution",ORG
+41,16,13," Just a week ago, the National Academy of Engineering awarded its ",Draper Prize to,"Francis Arnold and Willem Stemmer, two scientists who independently developed techniques to encourage the natural process of evolution to work faster and to lead to desirable proteins in a more efficient way — what Frances Arnold calls ""directed evolution",WORK_OF_ART
+41,16,14," Just a week ago, the National Academy of Engineering awarded its Draper Prize to ",Francis Arnold,"and Willem Stemmer, two scientists who independently developed techniques to encourage the natural process of evolution to work faster and to lead to desirable proteins in a more efficient way — what Frances Arnold calls ""directed evolution",PERSON
+41,16,15," Just a week ago, the National Academy of Engineering awarded its Draper Prize to Francis Arnold and ",Willem Stemmer," two scientists who independently developed techniques to encourage the natural process of evolution to work faster and to lead to desirable proteins in a more efficient way — what Frances Arnold calls ""directed evolution",PERSON
+41,16,17," Just a week ago, the National Academy of Engineering awarded its Draper Prize to Francis Arnold and Willem Stemmer, two scientists who independently developed techniques to encourage the natural process of evolution to work faster and to lead to desirable proteins in a more efficient way — what ",Frances Arnold,"calls ""directed evolution",PERSON
+41,16,19,""" A couple of years ago, ",the Lasker Prize,"was awarded to the scientist Shinya Yamanaka for his research in which he took an adult skin cell, a fibroblast, and by manipulating just four genes, he induced that cell to revert to a pluripotential stem cell — a cell potentially capable of becoming any cell in your body",PRODUCT
+41,16,20,""" A couple of years ago, the Lasker Prize was awarded to the scientist ",Shinya Yamanaka,"for his research in which he took an adult skin cell, a fibroblast, and by manipulating just four genes, he induced that cell to revert to a pluripotential stem cell — a cell potentially capable of becoming any cell in your body",PERSON
+41,18,3," Why not have the quick wit of a Ken Jennings, especially if you can augment it with the next generation of the ",Watson,machine? Why not have the quick twitch muscle that will enable you to run faster and longer? Why not live longer? These will be irresistible,PERSON
+42,22,13, Today ,the Israel-Loves-Iran,"page is this number, 80,831, and two million people last week went on the page and shared, liked, I don't know, commented on one of the photos",ORG
+42,27,7," Some girl that we met on Facebook never been in Israel, born and raised in Iran, lives in Germany, afraid of Israelis because of what she knows about us, decides after a few months of talking on the Internet with some Israelis to come to ",Israel," and she gets on the plane and arrives at Ben Gurion and says, ""Okay, not that big a deal",LOC
+42,27,8," Some girl that we met on Facebook never been in Israel, born and raised in Iran, lives in Germany, afraid of Israelis because of what she knows about us, decides after a few months of talking on the Internet with some Israelis to come to Israel, and she gets on the plane and arrives at ",Ben Gurion,"and says, ""Okay, not that big a deal",PERSON
+42,33,0,So I want to ask ,Michal," my wife, to come with me on the stage just to make with you one image, because it's all about images",PERSON
+43,24,1,I was riding in a 747 with ,Marvin Minsky,"once, and he pulls out this card and says, ""Oh look",PERSON
+44,14,1,"So the first person who gets happy, when you stop focusing on the self-centered situation of, how happy am I, where you're always dissatisfied — as ",Mick Jagger,told us,PERSON
+44,14,4, And you realize that this — being with these people — is the flower garden that ,Chiho,showed us,PERSON
+44,14,6, And I know the ,TED,commandments,ORG
+45,0,3, When ,Richard Feynman,"was a young boy in Queens, he went for a walk with his dad and his wagon and a ball",PERSON
+45,0,6,""" Feynman went on to earn degrees at MIT, ",Princeton," he solved the Challenger disaster, he ended up winning the Nobel Prize in Physics for his Feynman diagrams, describing the movement of subatomic particles",ORG
+45,0,7,""" Feynman went on to earn degrees at MIT, Princeton, he solved the ",Challenger,"disaster, he ended up winning the Nobel Prize in Physics for his Feynman diagrams, describing the movement of subatomic particles",PERSON
+45,0,8,""" Feynman went on to earn degrees at MIT, Princeton, he solved the Challenger disaster, he ended up winning ",the Nobel Prize in Physics,"for his Feynman diagrams, describing the movement of subatomic particles",WORK_OF_ART
+45,0,9,""" Feynman went on to earn degrees at MIT, Princeton, he solved the Challenger disaster, he ended up winning the Nobel Prize in Physics for his ",Feynman,"diagrams, describing the movement of subatomic particles",PERSON
+45,0,10, ,Eratosthenes,"was the third librarian at the great Library of Alexandria, and he made many contributions to science",ORG
+45,0,12, Eratosthenes was the third librarian at the great Library of ,Alexandria, and he made many contributions to science,LOC
+45,0,13," But the one he is most remembered for began in a letter that he received as the librarian, from the town of ",Swenet, which was south of Alexandria,PERSON
+45,0,15, The letter included this fact that stuck in ,Eratosthenes," mind, and the fact was that the writer said, at noon on the solstice, when he looked down this deep well, he could see his reflection at the bottom, and he could also see that his head was blocking the sun",LOC
+45,0,17, I should tell you — the idea that ,Christopher Columbus,discovered that the world is spherical is total bull,PERSON
+45,0,18," In fact, everyone who was educated understood that the world was spherical since ",Aristotle,s time,ORG
+45,0,19, ,Aristotle,had proved it with a simple observation,PERSON
+45,0,21, He noticed that every time you saw the Earth's shadow on the ,Moon," it was circular, and the only shape that constantly creates a circular shadow is a sphere, Q",PERSON
+45,0,22," He noticed that every time you saw the Earth's shadow on the Moon, it was circular, and the only shape that constantly creates a circular shadow is a sphere, ",Q.E.D.,the Earth is round,ORG
+45,0,45," Now, we live in an age where multi-billion-dollar pieces of machinery are looking for the ",Higgs,boson,ORG
+45,0,47, ,Armand Fizeau,was an experimental physicist in Paris,PERSON
+45,0,49, And he was familiar with ,Galileo,s experiments in trying to determine whether or not light had a speed,PRODUCT
+45,0,58, ,Fizeau,was aware of this experiment,ORG
+46,11,7, And this work is in the Devi Art Foundation in ,Delhi,,LOC
+46,16,0,"This is called """,Gravity,""" It's called ""Breath",WORK_OF_ART
+46,16,1,""" It's called """,Breath,""" It's just two holes on the gallery wall",WORK_OF_ART
+46,16,4," This is from the show called ""Invisible,"" at ",Talwar Gallery," This is called ""Kaayam",ORG
+46,16,5," This is called """,Kaayam,""" Detail",WORK_OF_ART
+47,19,0,The science done by the young ,Einstein,"will continue as long as our civilization, but for civilization to survive, we'll need the wisdom of the old Einstein — humane, global and farseeing",PERSON
+48,14,1," Let me introduce you to my brand new project, ""Baroque in ",Rock,""" which became a golden disc most recently",LOC
+48,15,0," I really look forward to witnessing a transforming world by you, ",TEDsters," Play your life, and stay tuned",ORG
+49,13,5, We had one on the shuttle and one on ,the International Space Station," for 16 months, where we managed to produce the first organisms to go through complete multiple life cycles in space — really pushing the envelope of understanding how malleable our life systems are",ORG
+49,19,4, And all of ,Tucson,could be like this if everybody would just revolt and throw away the rake,LOC
+49,20,1,The Industrial Revolution — and ,Prometheus,"— has given us this, the ability to light up the world",PERSON
+49,21,0, There perhaps is the ,CO2,from the person sitting next-door to you,PERSON
+50,1,7," When the estrogen level is high enough, the anterior pituitary releases a surge of luteinizing hormone, ",LH, which triggers ovulation and causes the follicle to rupture and release the egg,ORG
+50,10,1,"Millions of babies, like ",Louise Brown," have been born from IVF and have had normal, healthy lives",PERSON
+50,10,2,"Millions of babies, like Louise Brown, have been born from ",IVF,"and have had normal, healthy lives",ORG
+51,8,8," Until, as many of you are thinking, this year, when they finally came out with """,Brave,""" I recommend it to all of you",PERSON
+51,21,0,"When I asked my daughter who her favorite character was in """,Star Wars,""" do you know what she said? Obi-Wan",WORK_OF_ART
+51,21,1,"When I asked my daughter who her favorite character was in ""Star Wars,"" do you know what she said? ",Obi-Wan, Obi-Wan Kenobi and Glinda,PERSON
+51,21,2, ,Obi-Wan Kenobi,and Glinda,PERSON
+51,21,3, Obi-Wan Kenobi and ,Glinda, What do these two have in common? Maybe it's not just the sparkly dress,PERSON
+51,21,6," I want fewer quests where my son is told, ""Go out and fight it alone,"" and more quests where he sees that it's his job to join a team, maybe a team led by women, to help other people become better and be better people, like ",the Wizard of Oz, Thank you,ORG
+52,0,17," How can we understand what makes some societies more fragile than other societies? The problem is obviously relevant to our situation today, because today as well, there are some societies that have already collapsed, such as Somalia and ",Rwanda,and the former Yugoslavia,LOC
+52,0,18," How can we understand what makes some societies more fragile than other societies? The problem is obviously relevant to our situation today, because today as well, there are some societies that have already collapsed, such as Somalia and Rwanda and the former ",Yugoslavia," There are also societies today that may be close to collapse, such as Nepal, Indonesia and Columbia",LOC
+52,0,20," There are also societies today that may be close to collapse, such as ",Nepal, Indonesia and Columbia,LOC
+52,0,21," There are also societies today that may be close to collapse, such as Nepal, ",Indonesia,and Columbia,LOC
+52,0,22," There are also societies today that may be close to collapse, such as Nepal, Indonesia and ",Columbia,,LOC
+52,6,15," Yes — the climate in Montana is getting warmer and drier, but Montana agriculture depends especially on irrigation from the snow pack, and as the snow is melting — for example, as the glaciers in ",Glacier National Park,are disappearing — that's bad news for Montana irrigation agriculture,LOC
+52,6,16," Yes — the climate in Montana is getting warmer and drier, but Montana agriculture depends especially on irrigation from the snow pack, and as the snow is melting — for example, as the glaciers in Glacier National Park are disappearing — that's bad news for ",Montana,irrigation agriculture,LOC
+52,16,8," At the rate at which we're going now, the ",Philippines,will lose all its accessible loggable forest within five years,LOC
+52,16,10, And ,the Solomon Islands,"are only one year away from losing their loggable forest, which is their major export",LOC
+52,16,11," People often ask me, ",Jared," what's the most important thing that we need to do about the world's environmental problems? And my answer is, the most important thing we need to do is to forget about there being any single thing that is the most important thing we need to do",PERSON
+53,16,1,David got me invited to give a talk at ,National Cancer Institute,and Anna Barker was there,ORG
+53,16,2,David got me invited to give a talk at National Cancer Institute and ,Anna Barker,was there,PERSON
+53,16,3," And so I gave this talk and said, ""Why don't you guys do this?"" And ",Anna,"said, ""Because nobody within cancer would look at it this way",PERSON
+53,16,5,""" So David and I applied to this program and created a consortium at ",USC,"where we've got some of the best oncologists in the world and some of the best biologists in the world, from Cold Spring Harbor, Stanford, Austin — I won't even go through and name all the places — to have a research project that will last for five years where we're really going to try to build a model of cancer like this",LOC
+53,16,6,""" So David and I applied to this program and created a consortium at USC where we've got some of the best oncologists in the world and some of the best biologists in the world, from ",Cold Spring Harbor," Stanford, Austin — I won't even go through and name all the places — to have a research project that will last for five years where we're really going to try to build a model of cancer like this",ORG
+53,16,7,""" So David and I applied to this program and created a consortium at USC where we've got some of the best oncologists in the world and some of the best biologists in the world, from Cold Spring Harbor, ",Stanford, Austin — I won't even go through and name all the places — to have a research project that will last for five years where we're really going to try to build a model of cancer like this,LOC
+53,16,8,""" So David and I applied to this program and created a consortium at USC where we've got some of the best oncologists in the world and some of the best biologists in the world, from Cold Spring Harbor, Stanford, ",Austin,— I won't even go through and name all the places — to have a research project that will last for five years where we're really going to try to build a model of cancer like this,PERSON
+54,10,6, And while ,Ivan,"is away the wind comes, and it blows the sandwich down onto the grass",PERSON
+54,27,7, Remember the five-year-old completely understood why Ivan took ,Joshua,s sandwich,PERSON
+54,37,3," But the powder is labeled """,Deadly Poison,""" so Grace thinks that the powder is a deadly poison",WORK_OF_ART
+54,37,4," But the powder is labeled ""Deadly Poison,"" so ",Grace,thinks that the powder is a deadly poison,PERSON
+54,46,2, And then we can apply TMS to the ,RTPJ,and ask how people's judgments change,ORG
+54,54,1, One is that you can't be ,TMSed,without knowing it,ORG
+54,62,0, ,Rebecca Saxe, thank you very much,PERSON
+55,10,9," But anyway, I used this for a cover for the Nine ",Inch Nails DVD," and I've also now fixed the bomb shelter with duct tape, and it's ready",PERSON
+55,22,6," It's kind of horsey type, but the texture — the second plane not quite hitting:  there was something more enticing, if that's the right — it's not the right word — but in this cover than Time or ",Newsweek,,ORG
+55,30,4, I have visions of people going down alleyways yelling out for ,Hercles," and you get charged by this thing and you go, oh, please be Hercles; please be the friendly one",ORG
+55,31,0,But I was asked to give a talk at a conference in ,Sacramento,a few years back,LOC
+56,4,7," But that hospital was over four hours away, and ",Sevitha,"didn't have the means to get there, so her baby died",PERSON
+56,9,0," We really tried to understand the end user, in this case, people like ",Sevitha, We tried to understand the root of the problem rather than being biased by what already exists,PRODUCT
+56,9,2, And we can save millions of lives through the simple warmth of an ,Embrace,,ORG
+57,31,13," We created three of these: there's Ben 80, there's Ben 70, there's ",Ben 60, And this really became the template for moving forward,PERSON
+57,35,4, And so we edited the footage that was shot on location with the rest of the cast and the body actors and about six months later we brought Brad onto a sound stage in ,Los Angeles,and he watched on the screen,LOC
+57,35,5," His job, then, was to become ",Benjamin, And so we looped the scenes,PERSON
+57,35,9, We shot him with four HD cameras so we'd get multiple views of him and then David would choose the take of ,Brad,being Benjamin that he thought best matched the footage with the rest of the cast,PERSON
+58,23,1, I met ,Belinda,when she was 16,LOC
+58,23,10," And she wrote a little note, she said, """,Hey Rags, thank you for the magic carpet ride around the world,WORK_OF_ART
+59,0,1," But how does it happen? Let's rewind to before the zit, to before ",Justin,even sees his crush,ORG
+59,0,2," Already late for school, ",Justin,"got to class just in time to hear the teacher say ""pop quiz",PERSON
+59,0,4,""" He hadn't done his homework the night before, and felt more unprepared than the ambushed ",World War II,soldiers he was supposed to write about,EVENT
+59,0,5, ,Cortisol,is a major stress hormone involved in making skin cells churn out oily lipids from special glands called sebaceous glands,ORG
+60,15,16, Weddings were reported to be interrupted so guests could cluster around the ,T.V.,"set, and then turn their attention back to the bride and groom",LOC
+60,15,18, I have read a ,Reuters,"dispatch — so this is not Indian propaganda, a British news agency — about how robbers in the town of Musarri Sharif* stripped a vehicle of its windshield wipers, its hubcaps, its sideview mirrors, any moving part they could find, at 8:30, because the watchmen were busy watching the T",ORG
+60,15,21," I have read a Reuters dispatch — so this is not Indian propaganda, a British news agency — about how robbers in the town of ",Musarri Sharif," stripped a vehicle of its windshield wipers, its hubcaps, its sideview mirrors, any moving part they could find, at 8:30, because the watchmen were busy watching the T",PERSON
+60,15,24," And they scrawled on the windshield in a reference to the show's heroine, """,Tulsi Zindabad,": ""Long live Tulsi",WORK_OF_ART
+60,15,25," And they scrawled on the windshield in a reference to the show's heroine, ""Tulsi Zindabad"": ""Long live ",Tulsi,""" (Laughter)",PERSON
+60,16,12," But, today in Britain, for example, Indian restaurants in ",Britain,"employ more people than the coal mining, ship building and iron and steel industries combined",LOC
+60,21,9," But, the fact is that the last elections, five years ago, gave the world extraordinary phenomenon of an election being won by a woman political leader of Italian origin and Roman Catholic faith, Sonia Gandhi, who then made way for a Sikh, Mohan Singh, to be sworn in as Prime Minister by a Muslim, President ",Abdul Kalam, in a country 81 percent Hindu,PERSON
+60,24,8," In fact, you can't even take the name of the country for granted, because the name ""India"" comes from the river Indus, which flows in ",Pakistan,,LOC
+61,16,7,""" So when we pitched ""Toy Story"" to ",Tom Hanks,"for the first time, he walked in and he said, ""You don't want me to sing, do you?"" And I thought that epitomized perfectly what everybody thought animation had to be at the time",PERSON
+61,21,5," What exactly was it? And it wasn't until, on one of my later viewings, that the veil was lifted and it was in a scene where he's walked across ",the Sinai Desert,"and he's reached the Suez Canal, and I suddenly got it",LOC
+61,21,6," What exactly was it? And it wasn't until, on one of my later viewings, that the veil was lifted and it was in a scene where he's walked across the Sinai Desert and he's reached ",the Suez Canal, and I suddenly got it,LOC
+61,30,1, ,Draw,from it,PERSON
+61,30,2, And that's what ultimately led me to speaking to you here at ,TEDTalk,today,ORG
+63,12,20," We have one in Kathmandu, Nepal; Dharamsala, India; Takaungu, Kenya — Takaungu is one-third Christian, one-third Muslim and one-third animist, the community is — ",Ollantaytambo," Peru, and Arctic Village, Alaska",LOC
+63,12,21," We have one in Kathmandu, Nepal; Dharamsala, India; Takaungu, Kenya — Takaungu is one-third Christian, one-third Muslim and one-third animist, the community is — Ollantaytambo, ",Peru," and Arctic Village, Alaska",LOC
+63,12,22," We have one in Kathmandu, Nepal; Dharamsala, India; Takaungu, Kenya — Takaungu is one-third Christian, one-third Muslim and one-third animist, the community is — Ollantaytambo, Peru, and ",Arctic Village, Alaska,LOC
+63,12,23," We have one in Kathmandu, Nepal; Dharamsala, India; Takaungu, Kenya — Takaungu is one-third Christian, one-third Muslim and one-third animist, the community is — Ollantaytambo, Peru, and Arctic Village, ",Alaska,,LOC
+63,15,8, 70 percent of the kids couldn't find ,Afghanistan,or Iraq on a map; 60 percent couldn't find India; 30 percent couldn't find the Pacific Ocean,LOC
+63,15,9, 70 percent of the kids couldn't find Afghanistan or ,Iraq,on a map; 60 percent couldn't find India; 30 percent couldn't find the Pacific Ocean,LOC
+63,15,13, 70 percent of the kids couldn't find Afghanistan or Iraq on a map; 60 percent couldn't find India; 30 percent couldn't find ,the Pacific Ocean, And this is a study that was just done a couple of years ago,LOC
+63,16,1,"So what I'd like to show you now, in the couple of minutes I have left, is a film that a student made in ",Guatemala, We just had a workshop in Guatemala,LOC
+63,16,4," A week before we got to the workshop, a massive landslide, caused by ",Hurricane Stan," last October, came in and buried 600 people alive in their village",EVENT
+63,16,7, We taught him ,Photoshop,"and — yeah, we can play it",PERSON
+64,13,6," This is a parking lot in Elko, Nevada off of ",Route 80,at 8:01 p,ORG
+64,13,11," There's actually 46,000 images right now on my site, and the ",FBI,has seen all of them — at least I trust they've seen all of them,ORG
+64,13,12," This, by the way, is the location of my favorite sandwich shop in ",California,— Vietnamese sandwich,LOC
+64,19,4, ,Central Intelligence Agency, Executive Office of the President,ORG
+64,19,5, ,Executive Office,of the President,ORG
+64,22,2," You said, ""Now everything automatically goes from my ",iPhone,""" but actually you do take the pictures and put on information",ORG
+64,26,0,BG: ,Hasan, thank you very much,ORG
+65,7,5," Instead of giving in to grief, depression, defeat in the face of that violence, ",Mairead,"hooked up with Betty — a staunch Protestant and a staunch Catholic — and they took to the streets to say, ""No more violence",ORG
+65,7,6," Instead of giving in to grief, depression, defeat in the face of that violence, Mairead hooked up with ",Betty,"— a staunch Protestant and a staunch Catholic — and they took to the streets to say, ""No more violence",PERSON
+65,7,7," Instead of giving in to grief, depression, defeat in the face of that violence, Mairead hooked up with Betty — a staunch ",Protestant,"and a staunch Catholic — and they took to the streets to say, ""No more violence",PRODUCT
+65,7,10, And they have been part of what brought peace to ,Northern Ireland," and they're still working on it, because there's still a lot more to do",LOC
+66,1,18, ,Glenn Gould,1955,PERSON
+66,6,1, We made a new recording of him playing in ,the Shrine Auditorium,in September,ORG
+66,6,5," And I've got to tell you, we have this lab where we build and measure everything, back in ",Raleigh," North Carolina, and we flew out to Los Angeles",LOC
+66,6,8," That's a real uncomfortable feeling, when all the equipment's come out and a whole ",Sony,"team, and people are going to be sitting there in the audience",ORG
+66,6,9, And we put the piano on the sweet spot of the stage in the ,Shrine," which has not changed since 1949, still seats 6,000 people",PERSON
+66,6,12," And on the sweet spot on the stage, ",Tatum,starts playing ,PERSON
+66,6,16," (Applause) So thank you very much, ",Michael, thank you for the opportunity,PERSON
+67,37,0,"You know, ",Andy Grove,"stepped down as chairman of the board at Intel — and Andy was one of my mentors, tough individual",PERSON
+67,37,1,"You know, Andy Grove stepped down as chairman of the board at ",Intel,"— and Andy was one of my mentors, tough individual",ORG
+67,37,2,"You know, Andy Grove stepped down as chairman of the board at Intel — and ",Andy,"was one of my mentors, tough individual",PERSON
+68,15,7," And he was the King of England, and that was the entire wealth of ",England,at the time,LOC
+68,27,1," I don't have an answer to how this impacts on our dignity, other than to suggest that maybe the seventh kingdom, because it's so close to what life is about, maybe we can bring it back and have it help ",us,monitor life,LOC
+68,27,2, It's a terrible thing to spray ,DDT,"on cotton fields, but it's a really good thing to use to eliminate millions of cases of death due to malaria in a small village",ORG
+69,9,7," But there are still over 650 million Indians, Pakistanis, Sri Lankans, ",Bangladeshis," Nepalese, who remain washed up on the shores of poverty",LOC
+69,10,3," Our collective vision at Naya Jeevan, which for many of you, as you all recognize, means ""new life"" in ",Urdu,"and Hindi, is to rejuvenate the lives of millions of low income families by providing them with affordable access to catastrophic health care",LOC
+69,10,4," Our collective vision at Naya Jeevan, which for many of you, as you all recognize, means ""new life"" in Urdu and ",Hindi, is to rejuvenate the lives of millions of low income families by providing them with affordable access to catastrophic health care,LOC
+69,12,0,,Chris Anderson, Fantastic,PERSON
+70,19,11," You can take a Harvard-educated Ivy League economist, stick him in charge of ",Argentina, He still crashes the country because he doesn't understand how the rules have changed,LOC
+70,19,18, India and China used to be 40 percent of the global economy just at ,the Industrial Revolution, and they are now about 4,EVENT
+70,19,23, ,Silicon Valley,did,LOC
+70,20,0, It turns out that if you'd gone to the ,U.N.,"in 1950, when it was founded, there were 50 countries in this world",ORG
+70,20,8, (Laughter) ,Juan Enriquez," No, I'm going to stop there and we'll do it next year because I don't want to take any of Laurie's time",PERSON
+70,20,10," (Laughter) Juan Enriquez: No, I'm going to stop there and we'll do it next year because I don't want to take any of ",Laurie,s time,PERSON
+71,0,2, I'm going to put them in some ice water here And then — Audience: Ew! ,Greg Gabe, Yeah ,PERSON
+71,0,5," Now I'm going to take this leg, I'm going to put it in this invention that we came up with called the ",Spikerbox,"— and this replaces lots of expensive equipment in a research lab, so you guys can do this in your own high schools, or in your own basements if it's me",ORG
+71,0,10, (,Noise, That was the neural firing rate,PERSON
+71,0,13," Do you guys know how your earbuds work in your ears? You have a battery in your phone, or ",iPod, right? It's sending electrical current into these magnets in your earbuds which shake back and forth and allow you to hear things,PERSON
+71,0,14, (Audience reacts and gasps) ,GG, So what's happening? Audience: Wow! (Laughter) So you see what's moving,PERSON
+72,45,2," And what was really great is, I'm putting all this work together in the background, and ",Laura,sent me a follow-up email because a good month had passed by,PERSON
+73,12,10, Did you know that ,Ireland,got 3 billion dollars in aid? Ireland is one of the fastest-growing economies in the European Union today,LOC
+73,12,13, Did you know that Ireland got 3 billion dollars in aid? Ireland is one of the fastest-growing economies in ,the European Union,today,ORG
+73,12,18, My frustration is if they can build infrastructure in ,Spain,"— which is roads, highways, other things that they can build — I say then, why do they refuse to use the same aid to build the same infrastructure in our countries? (Applause)",LOC
+73,20,1, ,Beatrice Gakuba,has created 200 jobs from her flower business in Rwanda,PERSON
+73,20,4, We have ,Ibukun Awosika,"in Nigeria, with the chair company",PERSON
+73,20,5, We have Ibukun Awosika in ,Nigeria, with the chair company,LOC
+75,16,7," Late 1911, early 1912, there was a race to be the first to ",the South Pole, the heart of the Antarctic continent,LOC
+75,16,9," If you include the coastal ice shelves, you can see that ",the Ross Ice Shelf,— it's the big one down here — the Ross Ice Shelf is the size of France,ORG
+75,16,11," If you include the coastal ice shelves, you can see that the Ross Ice Shelf — it's the big one down here — the Ross Ice Shelf is the size of ",France," Antarctica, if you include the ice shelves, is twice the size of Australia — it's a big place",LOC
+75,16,14, And there's a race to get to the Pole between ,Amundsen," the Norwegian — Amundsen had dog sleds and huskies — and Scott, the British guy, Captain Scott",LOC
+75,16,16," And there's a race to get to the Pole between Amundsen, the Norwegian — ",Amundsen,"had dog sleds and huskies — and Scott, the British guy, Captain Scott",ORG
+75,16,17," And there's a race to get to the Pole between Amundsen, the Norwegian — Amundsen had dog sleds and huskies — and ",Scott," the British guy, Captain Scott",PERSON
+75,16,29," Since then, no one has ever skied — this was 93 years ago — since then, no one has ever skied from the coast of Antarctica to the ",Pole,and back,LOC
+75,16,30, Every ,South Pole,expedition you may have heard about is either flown out from the Pole or has used vehicles or dogs or kites to do some kind of crossing — no one has ever made a return journey,LOC
+75,17,2," It says, """,Ben,lacks sufficient impetus to achieve anything worthwhile,PERSON
+77,1,1,"Song: Before God destroyed the people on the Earth, he warned ",Noah,to build an Ark,PERSON
+77,1,3, And after Noah built his ,Ark, I believe he told Noah to warn the people that they must change all their wicked ways before he come upon them and destroy them,PERSON
+77,1,9," And old lady ran to the door and say, ""Who is it?"" ",Jack,"say, ""Me, Mama-san, could we spend the night here? Because we’re far from home, we’re very tired",PERSON
+77,1,10," And old lady ran to the door and say, ""Who is it?"" Jack say, ""","Me, Mama-san"," could we spend the night here? Because we’re far from home, we’re very tired",WORK_OF_ART
+78,11,0,But the patent for underwater flight — ,Karen,"and I, we were looking at it, some business partners wanted us to patent it — we weren’t sure about that",PERSON
+78,11,1, It just seems wrong to try and patent — (,Applause, — the freedom for underwater flight,LOC
+78,11,2, We developed some other technology called ,spider optics," and Craig Ventner asked me to make an announcement here this morning: we’re going to be building a beautiful, little, small version of this — unmanned, super deep — for his boat to go and get back some deep sea DNA stuff",ORG
+78,11,3," We developed some other technology called spider optics, and ",Craig Ventner,"asked me to make an announcement here this morning: we’re going to be building a beautiful, little, small version of this — unmanned, super deep — for his boat to go and get back some deep sea DNA stuff",PERSON
+79,4,10," That's one actor, ",the Security Council,,ORG
+79,7,4, ,The United Nations,even has an agency which could broker these compacts; it's called the Peace Building Commission,ORG
+79,7,5, The United Nations even has an agency which could broker these compacts; it's called ,the Peace Building Commission,,ORG
+79,17,1," Paddy Ashdown, who was the grand high nabob of ",Bosnia,"to the United Nations, in his book about his experience, he said, ""I realize what I needed was accountants without borders, to follow that money",LOC
+79,17,2," Paddy Ashdown, who was the grand high nabob of Bosnia to ",the United Nations," in his book about his experience, he said, ""I realize what I needed was accountants without borders, to follow that money",ORG
+80,5,9, ,ft," instead of 600, immediately I'm saving 200 grand",PERSON
+81,28,1,I guess the best way to end this is with two quotes: ,Marshall McLuhan,"said, ""Children are the messages that we send to the future,"" but in fact, if you think of it, children are the future we send to the future",PERSON
+81,28,12," That means that we, once again, have a thing where we can put technology out, but the mentoring that is required to go from a simple new ",iChat,instant messaging system to something with depth is missing,ORG
+82,9,1,"This is an image from Saturday, photographed by the ",Aqua,"satellite, but through the Uniview software",PERSON
+82,9,2,"This is an image from Saturday, photographed by the Aqua satellite, but through the ",Uniview,software,LOC
+82,9,5," This is, in fact, right here is the valley of ",Lhasa, right here in Tibet,LOC
+82,9,6," This is, in fact, right here is the valley of Lhasa, right here in ",Tibet, But we can see the haze from fires and so forth in the Ganges valley down below in India,LOC
+82,9,7, But we can see the haze from fires and so forth in the ,Ganges valley,down below in India,LOC
+83,8,9," Now, congestion charges were introduced in ",Stockholm,"on January 3, 2006, and the first picture here is a picture of Stockholm, one of the typical streets, January 2",LOC
+84,0,1, It was ,Edwin Hubble,"who first noticed that our universe is expanding, by noting that galaxies seem to be flying further and further apart",PERSON
+85,27,9, I'm probably the only person you'll ever meet who rode his bicycle across ,the Sahara desert,without sunscreen,LOC
+85,27,10," But I'll tell you, there is no adventure more harrowing than riding shotgun with ",Marge Deton," ""A stranger is a friend I haven't met yet!"" she'd say to me",PERSON
+85,28,6, These 100-year-old ,Okinawan,"women are getting up and down off the ground, they sit on the floor, 30 or 40 times a day",LOC
+86,0,11," And in the process, I became the first person in history to make the entire 650-mile journey, from ",Hercules Inlet,"to South Pole, solely on feet, without skis",LOC
+87,10,1,♫ Il ,est entre,dans mon coeur ♫,LOC
+88,18,1,That's because we Africans concentrate — I am from ,Ethiopia," by the way — we concentrate too much on how we are seen from elsewhere, or from outside",LOC
+89,7,5, We invited ,Tom Ford,"to come — the conference was called, ""Ready to Share: Fashion and the Ownership of Creativity"" — and we asked him exactly this question",PERSON
+89,7,6," We invited Tom Ford to come — the conference was called, """,Ready to Share: Fashion and the Ownership of Creativity, — and we asked him exactly this question,WORK_OF_ART
+89,7,7, He had just come off a successful stint as the lead designer at ,Gucci, in case you didn't know,PERSON
+89,17,2," A person can come in and take somebody else's gown, cut off three inches from the bottom, go to the ",E.U.,"and register it as a new, original design",LOC
+89,17,4, are ,Nike,T-shirts that are almost identical to one another,ORG
+89,25,0, And I really want to thank ,Veronica Jauriqui,for making this very fashionable presentation,PERSON
+90,24,9," Today, I see ",Kibera,in a different way,LOC
+90,24,10, My message to TEDGlobal and the entire world is: ,Kibera,is a hotbed of innovation and ideas,PERSON
+90,26,0,CA: You know what? I bet ,Chris,has always been an inspiring guy,PERSON
+90,26,3," Right now, Chris and ",Kevin,"and Dennis and Dickson and their friends are watching us, in Nairobi, right now",PERSON
+90,26,4," Right now, Chris and Kevin and ",Dennis,"and Dickson and their friends are watching us, in Nairobi, right now",PERSON
+90,26,5," Right now, Chris and Kevin and Dennis and ",Dickson,"and their friends are watching us, in Nairobi, right now",PERSON
+90,26,6," Right now, Chris and Kevin and Dennis and Dickson and their friends are watching us, in ",Nairobi, right now,LOC
+92,33,1," And for me, one of the great stories recently was the ",Obamas,digging up the south lawn of the White House to create a vegetable garden,ORG
+92,33,3," Because the last time that was done, when ",Eleanor Roosevelt,"did it, it led to the creation of 20 million vegetable gardens across the United States",PERSON
+93,8,15, She's going to give up university to look after ,Mum," We're all here, and all of those who watch it are going to be traumatized by this event, but all of you here who are victims are going to learn some hard truths",PERSON
+93,9,6,", for ",Welsh,people,ORG
+93,23,4," It's a question that's been tackled by many great thinkers and writers: What if society actually needs crisis to change? What if society actually needs terrorism to change and adapt for the better? It's those Bulgakov themes, it's that picture of Jesus and the Devil hand in hand in ",Gethsemane,walking into the moonlight,LOC
+93,24,0,A lot of people say that communism was defeated by ,the Rolling Stones, It's a good theory,ORG
+93,24,3, (Music) (Applause) ,Bruno Giussani, Thank you,PERSON
+94,5,4," Babri Masjid — one of the most beautiful mosques in India, built by ",King Babur," I think, in the 16th century — was demolished by Hindu activists",LOC
+94,5,11,""" I'm like, """,Dude, I'm Hindu,PERSON
+95,7,7," It's important to say came, because Ken — at a meeting that I believe ",Marty Hoffart,"was also at in the mid-'90s — Ken and I stood up at the back of the meeting and said, ""Geo-engineering won't work",PERSON
+95,7,8," It's important to say came, because Ken — at a meeting that I believe Marty Hoffart was also at in the mid-'90s — ",Ken,"and I stood up at the back of the meeting and said, ""Geo-engineering won't work",PERSON
+95,21,3, ,National Academy,report than I can say today,ORG
+95,21,5, That the ,CO2,"problem, the climate problem that we've heard about, is driving lots of things — innovations in the energy technologies that will reduce emissions — but also, I think, inevitably, it will drive us towards thinking about climate and weather control, whether we like it or not",ORG
+96,1,11," These are camels moving across the Rift Valley in Africa, photographed by ",Chris Johns," Shot straight down, so these are the shadows of the camels",PERSON
+96,1,12, This is a rancher in ,Texas," by William Albert Allard, a great portraitist",LOC
+96,1,13," This is a rancher in Texas, by ",William Albert Allard, a great portraitist,PERSON
+96,1,14, And ,Jane Goodall," making her own special connection, photographed by Nick Nichols",PERSON
+96,1,15," And Jane Goodall, making her own special connection, photographed by ",Nick Nichols," This is a soap disco in Spain, photographed by David Alan Harvey",PERSON
+96,1,17," This is a soap disco in Spain, photographed by ",David Alan Harvey, And David said that there was lot of weird stuff happening on the dance floor,PERSON
+96,1,20," (Laughter) These are sea lions in Australia doing their own dance, by ",David Doubilet," And this is a comet, captured by Dr",PERSON
+96,1,21, ,Euan Mason," And finally, the bow of the Titanic, without movie stars, photographed by Emory Kristof",PERSON
+96,1,22," And finally, the bow of the ",Titanic," without movie stars, photographed by Emory Kristof",LOC
+96,1,23," And finally, the bow of the Titanic, without movie stars, photographed by ",Emory Kristof," Photography carries a power that holds up under the relentless swirl of today's saturated, media world, because photographs emulate the way that our mind freezes a significant moment",ORG
+96,13,8, And then back to the ,States,"to recuperate at veterans' hospitals, such as here in Walter Reed",LOC
+96,13,9," And then back to the States to recuperate at veterans' hospitals, such as here in ",Walter Reed," And finally, often fitted with high-tech prosthesis, they exit the medical system and attempt to regain their pre-war lives",PERSON
+96,13,10, ,Jim,took what could have been a straight-up medical science story and gave it a human dimension that touched our readers deeply,PERSON
+96,15,2, And ,Paul,"said he was never really afraid, because she was more curious about him than threatened",PERSON
+96,15,4," To her, here was this big, ",goofy,creature in the water that for some reason didn't seem to be interested in chasing penguins,PERSON
+97,13,5," It's Mozart as I, ",Riccardo Muti, understand it,PERSON
+97,38,1, (Laughter) Did you see ,Lenny,s face? You know why? Because the meaning of the music is pain,PERSON
+97,38,4, And ,Bernstein,enables that,PERSON
+97,39,0, My friend ,Peter,"says, ""If you love something, give it away",PERSON
+99,45,1, Think about the kids today in ,the Arab Spring, and you see something like this that's underway,LOC
+100,17,6, Children can sleep through the night; the ,house,looks beautiful; you hang them in the window,ORG
+101,19,2," ♫ ""Oh ",Clonie, how I love you,PERSON
+102,7,2," My wife, who is somewhere in the audience today, called me up at the office and said, """,Nigel," you need to pick our youngest son"" — Harry — ""up from school",PERSON
+102,7,3," My wife, who is somewhere in the audience today, called me up at the office and said, ""Nigel, you need to pick our youngest son"" — ",Harry,"— ""up from school",PERSON
+102,7,11, I then read him a chapter of ,Roald Dahl's,"""James and the Giant Peach",PERSON
+102,7,12," I then read him a chapter of Roald Dahl's """,James and the Giant Peach,""" I then put him to bed, tucked him in, gave him a kiss on his forehead and said, ""Goodnight, mate,"" and walked out of his bedroom",WORK_OF_ART
+102,7,14,""" I hadn't done anything, hadn't taken him to ",Disney World,or bought him a Playstation,ORG
+102,7,15,""" I hadn't done anything, hadn't taken him to Disney World or bought him a ",Playstation,,ORG
+103,0,4, A special protein known as ,fibrin,"forms cross-links on the top of the skin, preventing blood from flowing out and bacteria or pathogens from getting in",ORG
+104,36,9," Portugal was 45 percent renewable powered, ",Denmark 36, And it's how all of Europe can shift to renewable electricity,ORG
+104,43,2, Former oil man ,Maurice Strong,"said, ""Not all the fossils are in the fuel",PERSON
+104,43,3,""" But as ",Edgar Woolard," who used to chair Dupont, reminds us, ""Companies hampered by old thinking won't be a problem because,"" he said,"" they simply won't be around long-term",PERSON
+104,43,4,""" But as Edgar Woolard, who used to chair ",Dupont," reminds us, ""Companies hampered by old thinking won't be a problem because,"" he said,"" they simply won't be around long-term",ORG
+104,45,1," And our new book """,Reinventing Fire, describes how you can capture it,WORK_OF_ART
+106,9,5, The name was ,John James," and in those days, if a family member committed a crime, the military would hold you as ransom till your family turned themselves in",PERSON
+106,9,10," And he had smuggled in two comics, two comic books — """,Spiderman," and ""X-Men",PRODUCT
+106,9,11," And he had smuggled in two comics, two comic books — ""Spiderman"" and """,X-Men,""" He was obsessed",WORK_OF_ART
+106,9,13," And so, I remember night after night, you'd hear all these men, these really hardened criminals, huddled around John James, reciting, ""Take that, ",Spidey,""" (Laughter) It's incredible",ORG
+106,11,1, I want to end with a poem by an American poet called ,Lucille Clifton," The poem is called ""Libation,"" and it's for my friend Vusi who is in the audience here somewhere",PERSON
+106,11,2," The poem is called ""Libation,"" and it's for my friend ",Vusi,who is in the audience here somewhere,PERSON
+107,2,17," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" ",Alem in Benjamin Zephaniah's,"""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by Hong Ying; Celie in Alice Walker's ""The Color Purple",WORK_OF_ART
+107,2,18," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's """,Refugee Boy,""" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by Hong Ying; Celie in Alice Walker's ""The Color Purple",WORK_OF_ART
+107,2,19," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" ",Luke Skywalker — Luke Skywalker," (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by Hong Ying; Celie in Alice Walker's ""The Color Purple",WORK_OF_ART
+107,2,20," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — ",Oliver Twist," Cassia in ""The Concubine of Shanghai"" by Hong Ying; Celie in Alice Walker's ""The Color Purple",PERSON
+107,2,21," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; ",Cassia,"in ""The Concubine of Shanghai"" by Hong Ying; Celie in Alice Walker's ""The Color Purple",PERSON
+107,2,22," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in """,The Concubine of Shanghai," by Hong Ying; Celie in Alice Walker's ""The Color Purple",WORK_OF_ART
+107,2,23," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by ",Hong Ying," Celie in Alice Walker's ""The Color Purple",PERSON
+107,2,24," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by Hong Ying; ",Celie,"in Alice Walker's ""The Color Purple",PERSON
+107,2,25," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by Hong Ying; Celie in ",Alice Walker's,"""The Color Purple",PERSON
+107,2,26," Pip from ""Great Expectations"" was adopted; Superman was a foster child; Cinderella was a foster child; Lisbeth Salander, the girl with the dragon tattoo, was fostered and institutionalized; Batman was orphaned; Lyra Belacqua from Philip Pullman's ""Northern Lights"" was fostered; Jane Eyre, adopted; Roald Dahl's James from ""James and the Giant Peach;"" Matilda; Moses — Moses! (Laughter) Moses! (Laughter) — the boys in Michael Morpurgo's ""Friend or Foe;"" Alem in Benjamin Zephaniah's ""Refugee Boy;"" Luke Skywalker — Luke Skywalker! (Laughter) — Oliver Twist; Cassia in ""The Concubine of Shanghai"" by Hong Ying; Celie in Alice Walker's """,The Color Purple,""" All of these great fictional characters, all of them who were hurt by their condition, all of them who spawned thousands of other books and other films, all of them were fostered, adopted or orphaned",WORK_OF_ART
+107,7,7," She lands months before the Beatles release """,The White Album,""" months before Martin Luther King was killed",WORK_OF_ART
+107,7,8," She lands months before the Beatles release ""The White Album,"" months before ",Martin Luther King,was killed,PERSON
+107,7,11, So she goes from ,Oxford," she's sent to the north of England to a mother and baby home, and appointed a social worker",ORG
+107,7,13," You know, I have to say this in the ",Houses,— It's her plan to have me fostered for a short period of time while she studies,ORG
+107,7,14, His name is ,Norman,""" (Laughter) Norman! (Laughter) Norman!",PERSON
+109,17,9,"  People date the beginning of this new era to 9/11, but surely 1983, with the attack on the US Embassy and the Marine barracks — which ",Sergio,"witnessed — those are, in fact, in some ways, the dawning of the era that we find ourselves in today",PERSON
+109,17,11, From ,Lebanon,he went to Bosnia in the '90s,LOC
+109,17,15, He was the first person to negotiate with ,the Khmer Rouge, Talk about evil prevailing,ORG
+109,17,16," I mean, here he was in the room with the embodiment of evil in ",Cambodia, He negotiates with the Serbs,LOC
+109,17,19, He actually crosses so far into this realm of talking to evil and trying to convince evil that it doesn't need to prevail that he earns the nickname — not Sergio but ,Serbio,while he's living in the Balkans and conducting these kinds of negotiations,PERSON
+109,17,20, He actually crosses so far into this realm of talking to evil and trying to convince evil that it doesn't need to prevail that he earns the nickname — not Sergio but Serbio while he's living in the ,Balkans,and conducting these kinds of negotiations,LOC
+109,27,5," And I think that's something that we have to be in the room, whether it's Nixon going to China or Khrushchev and Kennedy or Reagan and ",Gorbachev, All the great progress in this country with relation to our adversaries has come by going into the room,PERSON
+109,28,4," It's incredibly important, those people would no longer be alive if the United States, for instance, hadn't spent that money in ",Darfur, but it's not a way to live,LOC
+109,30,1, How ,Sisyphean,"this task was of mending, and yet aware of that complexity,  humbled by it, he wasn't paralyzed by it",PERSON
+109,30,2," And we as citizens, as we go through this experience of the kind of, the crisis of confidence, crisis of competence, crisis of legitimacy, I think there's a temptation to pull back from the world and say, ah, ",Katrina, Iraq — we don't know what we're doing,PERSON
+111,34,8," I mean seriously, ",the Department of Energy,did not have anything to do with fracking,ORG
+111,34,15, Now the largest aquifer in ,North America,"is from Midland, Texas to the South Dakota border, across eight states — big aquifer: Ogallala, Triassic age",LOC
+111,34,16, Now the largest aquifer in North America is from ,Midland," Texas to the South Dakota border, across eight states — big aquifer: Ogallala, Triassic age",LOC
+111,34,18," Now the largest aquifer in North America is from Midland, Texas to the ",South Dakota,"border, across eight states — big aquifer: Ogallala, Triassic age",LOC
+111,34,20," Now the largest aquifer in North America is from Midland, Texas to the South Dakota border, across eight states — big aquifer: ",Ogallala, Triassic age,PERSON
+111,34,22," There had to have been 800,000 wells fracked in ",Oklahoma," Texas, Kansas in that aquifer",LOC
+111,34,24," There had to have been 800,000 wells fracked in Oklahoma, Texas, ",Kansas,in that aquifer,LOC
+111,34,25, I don't understand why the media is focused on ,Eastern Pennsylvania,,LOC
+111,38,4, The ,Ft, Worth T has been on it for 25 years,PRODUCT
+111,38,7, Why are all the trash trucks today in ,Southern California,on natural gas? It's because of air quality,LOC
+112,11,14," We're advising the Burmese opposition, the government of Southern ",Sudan, which — you heard it here first — is going to be a new country within the next few years,LOC
+112,11,17, We're advising ,the Polisario Front,"of the Western Sahara, who are fighting to get their country back from Moroccan occupation after 34 years of dispossession",ORG
+112,11,18, We're advising the Polisario Front of ,the Western Sahara, who are fighting to get their country back from Moroccan occupation after 34 years of dispossession,ORG
+112,12,12, And watching ?What If! develop new flavors of chewing gum for Wrigley or new flavors for Coke actually helped me innovate new strategies for the Kosovars and for the ,Saharawis,of the Western Sahara,PERSON
+112,18,8, And we will be trying to bring the parties to New York to sit down in a quiet room in a private setting with no press and actually explain what they want to the members of ,the U. N. Security Council, and for the members of the U,ORG
+112,18,9," Security Council, and for the members of ",the U.N. Security Council,to explain to them what they want,ORG
+112,19,1, Preach technology to all the ,Twittering,"members of all the Iranian demonstrations who are now in political prison in Tehran, where Ahmadinejad remains in power",WORK_OF_ART
+112,19,4," Preach technology to all the Twittering members of all the Iranian demonstrations who are now in political prison in Tehran, where ",Ahmadinejad,remains in power,PERSON
+112,19,7," You've got to look at the outputs, and you got to say to yourself, ""What can I do to produce that particular output?"" That is the politics of the 21st century, and in a way, ",Independent Diplomat,"embodies that fragmentation, that change, that is happening to all of us",ORG
+113,1,5," In began some 50,000 years ago when our ancestors migrated north from Africa and into Europe and ",Asia,,LOC
+113,8,1,"As a result of our ancestor's adaptability, today the planet is full of people with a vast palette of skin colors, typically, darker eumelanin-rich skin in the hot, sunny band around the ",Equator, and increasingly lighter pheomelanin-rich skin shades fanning outwards as the sunshine dwindles,ORG
+113,9,0,"Therefore, skin color is little more than an adaptive trait for living on a rock that orbits the ",Sun," It may absorb light, but it certainly does not reflect character",ORG
+114,6,8, But most important was that ,BMI,"took public domain works and made arrangements of them, which they gave away for free to their subscribers",ORG
+114,6,10," So that in 1940, when ",ASCAP,"threatened to double their rates, the majority of broadcasters switched to BMI",ORG
+116,0,4," I came directly here from the deep, deep tropical rainforest in ",Ecuador," where I was out — you could only get there by a plane — with indigenous people with paint on their faces and parrot feathers on their headdresses, where these people are fighting to try and keep the oil companies, and keep the roads, out of their forests",LOC
+116,0,16,""" So there he is with his little laptop computer, but fighting against the might of the pressures — because of the debt, the foreign debt of Ecuador — fighting the pressure of ",World Bank," IMF, and of course the people who want to exploit the forests and take out the oil",ORG
+116,0,17,""" So there he is with his little laptop computer, but fighting against the might of the pressures — because of the debt, the foreign debt of Ecuador — fighting the pressure of World Bank, ",IMF, and of course the people who want to exploit the forests and take out the oil,ORG
+116,0,18, We've talked earlier — this wonderful talk by ,Wade Davis,about the different cultures of the humans around the world — but the world is not composed only of human beings; there are also other animal beings,PERSON
+116,0,19," And so, I want to give you a greeting, as from a chimpanzee in the forests of ",Tanzania,"— Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh! (Applause) I've been studying chimpanzees in Tanzania since 1960",LOC
+116,0,29, I think the chimpanzee in captivity who is the most skilled in intellectual performance is one called ,Ai,in Japan — her name means love — and she has a wonderfully sensitive partner working with her,LOC
+116,0,30, I think the chimpanzee in captivity who is the most skilled in intellectual performance is one called Ai in ,Japan,— her name means love — and she has a wonderfully sensitive partner working with her,LOC
+116,0,36, But the point is that when I was first in ,Gombe,"in 1960 — I remember so well, so vividly, as though it was yesterday — the first time, when I was going through the vegetation, the chimpanzees were still running away from me, for the most part, although some were a little bit acclimatized — and I saw this dark shape, hunched over a termite mound, and I peered with my binoculars",PERSON
+116,0,40," It was, fortunately, one adult male whom I'd named ",David Greybeard,"— and by the way, science at that time was telling me that I shouldn't name the chimps; they should all have numbers; that was more scientific",PERSON
+116,0,42, So that when ,Louis Leakey," my mentor, heard this news, he said, ""Ah, we must now redefine 'man,' redefine 'tool,' or accept chimpanzees as humans",PERSON
+116,0,56, And this has led in ,Congo,"basin, and other parts of the world, to what is known as the bush-meat trade",LOC
+116,0,59," And it's not sustainable, and the huge logging camps in the forest are now demanding meat, so the ",Pygmy,hunters in the Congo basin who've lived there with their wonderful way of living for so many hundreds of years are now corrupted,PERSON
+116,0,66," Were the people that we heard about yesterday, on ",the Easter Island," who cut down their last tree — were they stupid? Didn't they know what was happening? Of course, but if you've seen the crippling poverty in some of these parts of the world it isn't a question of ""Let's leave the tree for tomorrow",LOC
+116,0,72," We're harming ourselves around the world, as well as harming the animals, as well as harming nature herself — Mother Nature, that brought us into being; ",Mother Nature," where I believe we need to spend time, where there's trees and flowers and birds for our good psychological development",PERSON
+116,0,83, And Roots and ,Shoots,is a program for hope,ORG
+116,0,88," So, the ",Roots,and Shoots program involves youth in three kinds of projects,ORG
+116,0,94," One for animals, including domestic animals — and I have to say, I learned everything I know about animal behavior even before I got to Gombe and the chimps from my dog, ",Rusty, who was my childhood companion,PERSON
+116,0,98," We're in every state now, and the problems in ",Florida,are different from the problems in New York,LOC
+116,0,115, ,Jane," do you really have hope for the future? You travel, you see all these horrible things happening",PERSON
+116,0,119, ,Nelson Mandela,"— I take a little piece of limestone from Robben Island Prison, where he labored for 27 years, and came out with so little bitterness, he could lead his people from the horror of apartheid without a bloodbath",PERSON
+116,0,120, Nelson Mandela — I take a little piece of limestone from ,Robben Island Prison," where he labored for 27 years, and came out with so little bitterness, he could lead his people from the horror of apartheid without a bloodbath",LOC
+116,0,124," And then as I went around the country after that and felt the fear — the fear that was leading to people feeling they couldn't worry about the environment any more, in case they seemed not to be patriotic — and I was trying to encourage them, somebody came up with a little quotation from ",Mahatma Gandhi," ""If you look back through human history, you see that every evil regime has been overcome by good",PERSON
+116,0,125," This bell is made from metal from a defused landmine, from the killing fields of ",Pol Pot,— one of the most evil regimes in human history — where people are now beginning to put their lives back together after the regime has crumbled,PERSON
+117,18,9," So, why is that? Well, I think what part of the problem is that, in ",Haiti," although the problem is huge, somehow we understand it, it's localized",LOC
+117,18,10," You give your money to Doctors Without Borders, you give your money to ",Partners In Health," and they'll send in the doctors, and they'll send in the lumber, and they'll helicopter things out and in",ORG
+118,17,7, We brought Oxford Street and ,Tottenham Court Road,to a standstill,ORG
+118,30,1," I was going to wear it, but I thought I'd get ",Costa,"to do it, my lovely assistant",LOC
+118,30,2," Thank you, ",Costa.,This is the communication headset you'll see on lots of space suits,LOC
+118,30,4, ,NASA,suits have got 13 layers,ORG
+119,8,2,"♫ and nerves jingle jangled, ",vermouth,and beer were getting me mangled up,PERSON
+120,8,11, One discovery was that wild ,Bonobos,often walk bidpedally,PERSON
+120,8,12, ,Susan Savage-Rumbaugh,(video): Let's go say hello to Austin first and then go to the A frame,PERSON
+120,19,0,SS: He talks to other ,Bonobo," at the lab, long-distance, farther than we can hear",ORG
+120,34,8, These are the rocks ,Kanzi,used and these are the flakes he made,ORG
+120,53,3, ,Sue,thinks it's important to allow such curiosity to flourish,PERSON
+120,53,4, This time ,Panbanisha,is playing the electric piano,ORG
+121,23,6, If the ,OPEC,"price falls below that, we tax it",ORG
+122,2,9,""" (Laughter) Or this that I found in a magazine called ",California Lawyer, in an article that is surely meant for the lawyers at Enron,ORG
+122,2,10,""" (Laughter) Or this that I found in a magazine called California Lawyer, in an article that is surely meant for the lawyers at ",Enron," ""Surviving the Slammer: Do's and Don'ts",ORG
+122,2,11," ""Surviving the Slammer: Do's and ",Don'ts,""" (Laughter) ""Don't use big words",WORK_OF_ART
+122,2,12," ""","Lingua this, Frankie","""",WORK_OF_ART
+122,21,7," So it was always the satirist, like ",Juvenal,"or Martial, represented the audience, and he was going to make fun of the outsider, the person who didn't share that subject status",PERSON
+122,21,8," So it was always the satirist, like Juvenal or ",Martial," represented the audience, and he was going to make fun of the outsider, the person who didn't share that subject status",ORG
+122,50,1, I want to say to you ,Richard," in closing, that in TED you've created a home",PERSON
+122,50,2," I want to say to you Richard, in closing, that in ",TED,you've created a home,PERSON
+124,6,9, And every year they fail to because they don't want to hurt ,I.M. Pei's,feelings,PERSON
+124,18,6, These are the schools we are sending them to: ,The Hannibal Lecter Central School," Las Vegas, Nevada",ORG
+124,18,7," These are the schools we are sending them to: The Hannibal Lecter Central School, ",Las Vegas, Nevada,LOC
+124,18,8," These are the schools we are sending them to: The Hannibal Lecter Central School, Las Vegas, ",Nevada," This is a real school! You know, but there's obviously a notion that if you let the inmates of this thing out, that they would snatch a motorist off the street and eat his liver",LOC
+125,6,5," For this, we're showing a simulator, a blind person driving using the ",AirPix, This simulator was also very useful for training the blind drivers and also quickly testing different types of ideas for different types of non-visual user interfaces,ORG
+125,18,2," Letters thanking us, but sometimes you also get funny letters like this one: ""Now I understand why there is Braille on a drive-up ",ATM,machine,ORG
+125,18,3, ,Hong," are you insane, trying to put blind people on the road? You must be out of your mind",PERSON
+126,24,10,""" Only two percent, only two percent of tribes get to ",Stage Five, And those are the ones that change the world,ORG
+126,26,8," He went from being alive and passionate at Stage One — remember, ""Life sucks, despairing hostility, I will do whatever it takes to survive"" — to walking into ",a Boys and Girls Club," folding his arms, sitting down in a chair, and saying, ""Wow",WORK_OF_ART
+126,31,5, They had people involved who were ,Nobel,"laureates in economics, who reported being bored",WORK_OF_ART
+126,31,6," And suddenly they pulled out sheets of paper and were trying to figure out, ""How do we survey the population of ",Sub-Saharan Africa," How do we survey populations that don't have access to technology, and speak languages we don't speak, and we don't know anyone who speaks those languages",LOC
+127,19,9," and Japan and Australia, and now I'm pleased to report that ",the United States Patent Office,"will be rolling out universal, complete, and total openness, so that all patent applications will now be open for citizen participation, beginning this year",LOC
+127,21,3," Participatory budgeting has long been practiced in Porto Alegre, ",Brazil, They're just starting it in the 49th Ward in Chicago,LOC
+127,21,5, They're just starting it in the 49th ,Ward,in Chicago,ORG
+127,21,6, They're just starting it in the 49th Ward in ,Chicago," Russia is using wikis to get citizens writing law together, as is Lithuania",LOC
+127,21,8," Russia is using wikis to get citizens writing law together, as is ",Lithuania," When we start to see power over the core functions of government — spending, legislation, decision-making — then we're well on our way to an open government revolution",LOC
+129,23,0, When we really begin to feel ,Darwin,"s insights in our bones, the things we can do with nothing more than these ideas are something to be very hopeful about",PERSON
+130,8,10," This Nigerian student studied in London, trained in Yemen, boarded a flight in ",Amsterdam,to attack America,LOC
+130,8,12," In the meanwhile, the ",Old,"mentality with a capital O, was represented by his father, the head of the Nigerian bank, warning the CIA that his own son was about to attack, and this warning fell on deaf ears",PERSON
+130,8,14," In the meanwhile, the Old mentality with a capital O, was represented by his father, the head of the Nigerian bank, warning the ",CIA,"that his own son was about to attack, and this warning fell on deaf ears",ORG
+130,8,17, And the Christmas Day bomber almost succeeded in attacking ,the United States of America," Again with the example of the far right: that we find, ironically, xenophobic nationalists are utilizing the benefits of globalization",LOC
+130,19,5, So when Arab socialism started in ,Egypt, it spread across the region,LOC
+130,19,8, In the '80s and '90s when ,Islamism,"started in the region, it spread across the MENA region as a whole",PERSON
+130,19,9," In the '80s and '90s when Islamism started in the region, it spread across the ",MENA,region as a whole,ORG
+130,20,4, And we've made a start for that in Pakistan with a movement called ,Khudi, where we are working on the ground to encourage the youth to create genuine buy-in for the democratic culture,LOC
+131,0,1," Now I'm not a scientist, but I was accompanying a remarkable scientific team from ",the University of South Florida,who have been tracking the travels of BP's oil in the Gulf of Mexico,ORG
+131,0,2," Now I'm not a scientist, but I was accompanying a remarkable scientific team from the University of South Florida who have been tracking the travels of ",BP,s oil in the Gulf of Mexico,LOC
+131,0,3," Now I'm not a scientist, but I was accompanying a remarkable scientific team from the University of South Florida who have been tracking the travels of BP's oil in ",the Gulf of Mexico," This is the boat we were on, by the way",LOC
+131,0,4, And what they're finding is that even trace amounts of oil and dispersants can be highly toxic to ,phytoplankton," which is very bad news, because so much life depends on it",LOC
+131,0,7, ,Rachel Carson,— the godmother of modern environmentalism — warned us about this very thing back in 1962,PERSON
+131,0,11," Thus the title """,Silent Spring,""" I've been trying to pinpoint what keeps drawing me back to the Gulf of Mexico, because I'm Canadian, and I can draw no ancestral ties",WORK_OF_ART
+131,0,17, If there is one thing ,BP,"s watery improv act made clear, it is that, as a culture, we have become far too willing to gamble with things that are precious and irreplaceable, and to do so without a back-up plan, without an exit strategy",ORG
+131,0,23," Now as you know, a great deal of time is spent, in this country and around the world, inside the climate debate, on the question of, ""What if the ",IPC,"scientists are all wrong?"" Now a far more relevant question — as MIT physicist Evelyn Fox Keller puts it — is, ""What if those scientists are right?"" Given the stakes, the climate crisis clearly calls for us to act based on the precautionary principle — the theory that holds that when human health and the environment are significantly at risk and when the potential damage is irreversible, we cannot afford to wait for perfect scientific certainty",ORG
+131,0,25," Now as you know, a great deal of time is spent, in this country and around the world, inside the climate debate, on the question of, ""What if the IPC scientists are all wrong?"" Now a far more relevant question — as MIT physicist ",Evelyn Fox Keller,"puts it — is, ""What if those scientists are right?"" Given the stakes, the climate crisis clearly calls for us to act based on the precautionary principle — the theory that holds that when human health and the environment are significantly at risk and when the potential damage is irreversible, we cannot afford to wait for perfect scientific certainty",PERSON
+131,0,33," So rather than asking, as precaution would demand, what can we do as quickly as possible to avoid potential catastrophe, we ask bizarre questions like this: ""What is the latest possible moment we can wait before we begin seriously lowering emissions? Can we put this off till 2020, 2030, 2050?"" Or we ask, ""How much hotter can we let the planet get and still survive? Can we go with two degrees, three degrees, or — where we're currently going — four degrees Celsius?"" And by the way, the assumption that we can safely control the Earth's awesomely complex climate system as if it had a thermostat, making the planet not too hot, not too cold, but just right — sort of ",Goldilocks,"style — this is pure fantasy, and it's not coming from the climate scientists",ORG
+131,0,36," By the way, ",Tony Hayward," the former CEO of BP, had a plaque on his desk inscribed with this inspirational slogan: ""What would you attempt to do if you knew you could not fail?"" Now this is actually a popular plaque, and this is a crowd of overachievers, so I'm betting that some of you have this plaque",PERSON
+131,0,40, Because none of us — at least in the global ,North,"— neither men nor women, are fully exempt from this message",LOC
+131,0,41," For instance, I stumbled across this advertisement outside the women's washroom in the ",Kansas City,airport,LOC
+131,0,42, It's for ,Motorola,"s new Rugged cell phone, and yes, it really does say, ""Slap Mother Nature in the face",ORG
+131,0,44, Let's hear from ,Tony Hayward,again,LOC
+131,0,45," """,The Gulf of Mexico,is a very big ocean,LOC
+131,0,46," In a way, that is the story of the settling of the ",Americas, the supposedly inexhaustible frontier to which Europeans escaped,LOC
+131,0,49, How else to explain the cultural space occupied by ,Sarah Palin," Now on the one hand, exhorting us to ""drill, baby, drill,"" because God put those resources into the ground in order for us to exploit them, and on the other, glorying in the wilderness of Alaska's untouched beauty on her hit reality TV show",PERSON
+131,0,52," So that means drilling for oil in the deepest water, including the icy ",Arctic,"seas, where a clean-up may simply be impossible",LOC
+131,0,53, I'm always surprised by how little people outside of ,Canada,"know about the Alberta Tar Sands, which this year are projected to become the number one source of imported oil to the United States",LOC
+131,0,54, I'm always surprised by how little people outside of Canada know about ,the Alberta Tar Sands, which this year are projected to become the number one source of imported oil to the United States,ORG
+131,0,58," So this is where the tar sands live, under one of the last magnificent ",Boreal,forests,PERSON
+131,0,61, I find it helps actually to look at the dump trucks that move the ,earth, the largest ever built,LOC
+131,0,66, As ,Jared Diamond,"and others have shown us, this is how civilizations commit suicide, by slamming their foot on the accelerator at the exact moment when they should be putting on the brakes",PERSON
+131,0,68," At the very last minute, we are going to get saved just like in every ",Hollywood,"movie, just like in the Rapture",LOC
+131,0,69," At the very last minute, we are going to get saved just like in every Hollywood movie, just like in the ",Rapture," But, of course, our secular religion is technology",WORK_OF_ART
+132,14,13," It does, and it can, work in ",Bulgaria," There's nothing holding us back, except our own mentality about play",LOC
+133,7,4," And we know, and especially ",Carolyn,"knows, that when the sun will implode, the earth will burn, explode, I don't know what, and this is scheduled for four, four billion years? Yes, she said, something like that",PERSON
+134,27,1,Chris Anderson: ,Jill Sobule,,PERSON
+135,11,6, That's why it's so appealing to have a Facebook page or a ,Twitter,feed — so many automatic listeners,ORG
+137,25,10," Now I don't know about you, but I go to ",Starbucks,"and Pete's and places like that, and venti latte in San Francisco is five dollars",ORG
+137,25,11," Now I don't know about you, but I go to Starbucks and ",Pete,"s and places like that, and venti latte in San Francisco is five dollars",PERSON
+137,25,12," Now I don't know about you, but I go to Starbucks and Pete's and places like that, and venti latte in ",San Francisco,is five dollars,LOC
+138,8,21, ,Sutherland,said it was the best Thanksgiving ever,ORG
+138,24,14, I was talking to ,Warren Buffett's,"banker, and he was chiding me for not letting my children make mistakes with their allowance",PERSON
+138,28,1,"I was a teenager when I first read """,Anna Karenina," and its famous opening sentence, ""All happy families are alike",WORK_OF_ART
+138,28,7," Is it possible, all these years later, to say ",Tolstoy,"was right? The answer, I believe, is yes",PERSON
+138,28,8, When ,Leo Tolstoy,"was five years old, his brother Nikolay came to him and said he had engraved the secret to universal happiness on a little green stick, which he had hidden in a ravine on the family's estate in Russia",PERSON
+138,28,10," When Leo Tolstoy was five years old, his brother ",Nikolay,"came to him and said he had engraved the secret to universal happiness on a little green stick, which he had hidden in a ravine on the family's estate in Russia",PERSON
+139,58,3," And Kevin Kennon, Rick Scofidio, ",Liz Diller,"and all the people within the city — Norman Lear, who I spoke to four hours before our deadline for funding, offered to give us a bridge loan to help us get through it",PERSON
+139,58,4," And Kevin Kennon, Rick Scofidio, Liz Diller and all the people within the city — ",Norman Lear," who I spoke to four hours before our deadline for funding, offered to give us a bridge loan to help us get through it",PERSON
+139,76,1, It's 350 people on the committee for ,Oklahoma City," which is why we thought of this as a sort of ad-hoc, spontaneous solution that expanded on Union Square and the places that were ad-hoc memorials in the city already",LOC
+139,76,2," It's 350 people on the committee for Oklahoma City, which is why we thought of this as a sort of ad-hoc, spontaneous solution that expanded on ",Union Square,and the places that were ad-hoc memorials in the city already,ORG
+140,17,3, This boy is called ,Messoud, He killed 28,LOC
+140,17,5, The ,Taliban,"are running suicide schools, preparing a generation of boys for atrocities against civilians",ORG
+141,6,13, But it stood in jarring contrast to something ,Armstrong,had said as we were eating — that he treasured the quality of life in his neighborhood,PERSON
+141,21,3, That's ,Sureka Gundi, she also lives with her family on the tent along the same highway median,PERSON
+141,23,1,And finally my choice to run for mayor of Rio is ,Cezinio," the fruit merchant with his two kids here, and a more honest and giving and caring man I don't know",PRODUCT
+143,14,11, They made a donation to an organization based in ,Arkansas,called Heifer International,LOC
+143,14,12, They made a donation to an organization based in Arkansas called ,Heifer International, Heifer sent two goats to Africa,ORG
+143,14,16, One of them ended up with ,Beatrice,"s parents, and that goat had twins",ORG
+143,14,17, Let's send ,Beatrice,to school,PERSON
+143,14,25," Two years ago, she graduated from ",Connecticut College," On the day of her graduation, she said, ""I am the luckiest girl alive because of a goat",ORG

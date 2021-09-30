@@ -1,0 +1,42 @@
+﻿talk_id,para_id,entity_id,before,entities,after,label
+4,6,1,"John Cage's """,4'33''," was performed for the first time in the summer of 1952, by renowned pianist David Tudor",WORK_OF_ART
+3,14,2,"As an Ethiopian-American woman, I grew up around the language of Amharic, ",Amhari√±a," It was my first language, the language of my parents, one of the main languages of Ethiopia",GPE
+3,14,1,"As an Ethiopian-American woman, I grew up around the language of ",Amharic, Amhari√±a,GPE
+1,0,11,"How many times does the chorus repeat in your favorite song? And, take a moment to think, how many times have you listened to it? Chances are you've heard that chorus repeated dozens, if not hundreds, of times, and it's not just popular songs in the West that repeat a lot",atlas,""" but the guitarist pitch bending might be of critical expressive importance",WORK_OF_ART
+3,11,2,"Now, I love this story because it's true at multiple levels",Bernie Krause,"describes how a healthy environment has animals and insects taking up low, medium and high-frequency bands, in exactly the same way as a symphony does",PERSON
+4,11,4,"To make music like this, John Cage would put objects inside the piano, between the strings",Boris Berman, John Cage wrote incredibly detailed instructions about where to place each object in the piano,PERSON
+3,22,7,"Finally, we go to the 1950s United States and the most seminal work of 20th century avant-garde composition: John Cage's ""4:33,"" written for any instrument or combination of instruments",Cage,"shows us that even when there are no strings being plucked by fingers or hands hammering piano keys, still there is music, still there is music, still there is music",PERSON
+3,32,0,"Musician, music researcher, surgeon and human hearing expert ",Charles Limb,is a professor at Johns Hopkins University and he studies music and the brain,PERSON
+3,11,1,"Now, I love this story because it's true at multiple levels",Congo,tune their instruments to the pitches of the birds in the forest around them,GPE
+4,25,0,(,Crickets,chirping and owl hooting) ,ORG
+4,6,4,"John Cage's ""4'33''"" was performed for the first time in the summer of 1952, by renowned pianist ",David Tudor," It was at the Maverick Concert hall in Woodstock, New York",PERSON
+3,12,1,So let's go now to the uniquely human world of language,English, where a raised pitch at the end of a sentence ,LANGUAGE
+3,10,0,In ,Ethiopia, birds are considered an integral part of the origin of music itself,GPE
+4,16,1,John Cage visited an anechoic chamber at ,Harvard University, Anechoic chambers are rooms that are acoustically treated to minimize sound to almost zero,ORG
+4,1,1,I think about sound all the time,Hertz,""" It's all about the world's most recognizable and interesting sounds",ORG
+4,3,2,"John Cage has made an impact on artists in many genres, from avant-garde musicians, to modern dance, to pop music",In a Landscape,""" This version was recorded in 1994 by Stephen Drury",WORK_OF_ART
+3,14,6,"As an Ethiopian-American woman, I grew up around the language of Amharic, Amhari√±a",Indey," ‚Äî it dips, and then raises again",ORG
+3,21,0,"Now, this is based on the work of ",Jason Moran,"and others who work intimately with music and language, but it's also something I've had in my head since I was a kid, how musical my parents sounded when they were speaking to each other and to us",PERSON
+3,25,0,"Now, I had my own moment of, let's say, remixing ",John Cage,a couple of months ago when I was standing in front of the stove cooking lentils,PERSON
+3,22,3,"Finally, we go to the 1950s United States and the most seminal work of 20th century avant-garde composition: ",John Cage's,"""4:33,"" written for any instrument or combination of instruments",PERSON
+3,32,1,"Musician, music researcher, surgeon and human hearing expert Charles Limb is a professor at ",Johns Hopkins University,and he studies music and the brain,ORG
+1,0,7,"How many times does the chorus repeat in your favorite song? And, take a moment to think, how many times have you listened to it? Chances are you've heard that chorus repeated dozens, if not hundreds, of times, and it's not just popular songs in the West that repeat a lot",Mahna Mahna,""" If you've heard it before, it's almost impossible after I sing, ""Mahna mahna,"" not to respond, ""Do doo do do do",PERSON
+1,0,8,"How many times does the chorus repeat in your favorite song? And, take a moment to think, how many times have you listened to it? Chances are you've heard that chorus repeated dozens, if not hundreds, of times, and it's not just popular songs in the West that repeat a lot",Mahna mahna,""" not to respond, ""Do doo do do do",WORK_OF_ART
+1,0,6,"How many times does the chorus repeat in your favorite song? And, take a moment to think, how many times have you listened to it? Chances are you've heard that chorus repeated dozens, if not hundreds, of times, and it's not just popular songs in the West that repeat a lot",Muppets,"classic, ""Mahna Mahna",PERSON
+4,14,2,The Muzak company was founded in the '30s,Muzak,would prevent people from hearing silence altogether,ORG
+4,6,7,"John Cage's ""4'33''"" was performed for the first time in the summer of 1952, by renowned pianist David Tudor",New York, This is a beautiful wooden building with huge openings to the outdoors,GPE
+0,1,2,"How do we know this? Well, in the last few decades, neuroscientists have made enormous breakthroughs in understanding how our brains work by monitoring them in real time with instruments like fMRI and ",PET,scanners,ORG
+3,4,0,"It's beautiful, isn't it? Gotcha! That is actually not the sound of an opera singer warming up",Peter Sz√∂ke's,"1987 Hungarian recording ""The Unknown Music of Birds,"" where he records many birds and slows down their pitches to reveal what's underneath",ORG
+3,10,12,"In Ethiopia, birds are considered an integral part of the origin of music itself",Saint Yared, used these scales to compose five volumes of chants and hymns for worship and celebration,PERSON
+4,11,2,"To make music like this, John Cage would put objects inside the piano, between the strings",Sonata V,""" from ""Sonatas and Interludes for Prepared Piano",WORK_OF_ART
+4,11,3,"To make music like this, John Cage would put objects inside the piano, between the strings",Sonatas and Interludes for Prepared Piano,""" Probably his most famous work outside of ""4'33''",WORK_OF_ART
+4,3,4,"John Cage has made an impact on artists in many genres, from avant-garde musicians, to modern dance, to pop music",Stephen Drury, ,PERSON
+2,3,1,"When sound enters the ear canal, it hits the eardrum and makes it vibrate like the head of a drum",stereocilia, which move with the vibrations of the cochlear fluid and the basilar membrane,GPE
+1,0,4,"How many times does the chorus repeat in your favorite song? And, take a moment to think, how many times have you listened to it? Chances are you've heard that chorus repeated dozens, if not hundreds, of times, and it's not just popular songs in the West that repeat a lot",Super Bowl,ads,EVENT
+3,10,2,"In Ethiopia, birds are considered an integral part of the origin of music itself",the Empire of Aksum, a major trading center of the ancient world,GPE
+4,6,5,"John Cage's ""4'33''"" was performed for the first time in the summer of 1952, by renowned pianist David Tudor",the Maverick Concert hall,"in Woodstock, New York",FAC
+3,22,5,"Finally, we go to the 1950s United States and the most seminal work of 20th century avant-garde composition: John Cage's ""4:33,"" written for any instrument or combination of instruments",the Museum of Modern Art,"‚Äî the score, that is",ORG
+3,4,3,"It's beautiful, isn't it? Gotcha! That is actually not the sound of an opera singer warming up",The Unknown Music of Birds,""" where he records many birds and slows down their pitches to reveal what's underneath",WORK_OF_ART
+3,22,1,"Finally, we go to the 1950s ",United States,"and the most seminal work of 20th century avant-garde composition: John Cage's ""4:33,"" written for any instrument or combination of instruments",GPE
+1,0,2,"How many times does the chorus repeat in your favorite song? And, take a moment to think, how many times have you listened to it? Chances are you've heard that chorus repeated dozens, if not hundreds, of times, and it's not just popular songs in the ",West,that repeat a lot,LOC
+4,6,6,"John Cage's ""4'33''"" was performed for the first time in the summer of 1952, by renowned pianist David Tudor",Woodstock, New York,GPE

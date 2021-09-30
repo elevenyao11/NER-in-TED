@@ -1,0 +1,131 @@
+talk_id,para_id,entity_id,before,entities,after,label
+143,15,6, When I was in ,Zimbabwe," we were touring a place with the village chief — he wanted to raise money for a secondary school — and there was some construction a few yards away, and I said, ""What's that?"" He sort of mumbled",LOC
+144,12,10,""" Well, that's what happened in ",the Indian Ocean,"during the 1998 El Nino, an area vastly greater than the size of North America and Europe, when 80 percent of all the corals bleached and a quarter of them died",LOC
+144,12,12,""" Well, that's what happened in the Indian Ocean during the 1998 ",El Nino," an area vastly greater than the size of North America and Europe, when 80 percent of all the corals bleached and a quarter of them died",EVENT
+145,1,2,"The first dog is the first to go, and he is contemplating an aspect of his relationship to his owner, and the title is """,A Dog on His Master,"""",WORK_OF_ART
+146,7,6, ,meters,of surface,PERSON
+146,9,1,Now how do the two brains work with each other? I took here a model from robotics — it's called ,the Subsumption Architecture, What it means is that we have a layered control system,ORG
+146,9,3," If you have an empty stomach, your stomach produces a hormone called ",ghrelin," It's a very big signal; it's sent to the brain says, ""Go and eat",LOC
+146,13,0,"So I would say, ",coquo ergo,"sum: I cook, therefore I am",PERSON
+147,0,1," To explore this contradiction, let's see what happens if I start moving while I stand still and shine the laser at ",Tom," First, we'll need to construct the space-time diagram",PERSON
+147,0,3, But that space-time diagram represents ,Andrew,s perspective,PERSON
+147,0,7," In the 1900s, a clever chap named ",Albert Einstein,"worked out how to see things properly, from Tom's point of view, while still getting the speed of light right",PERSON
+147,0,14, This superb trick is known as a ,Lorentz,transformation,ORG
+147,0,16, This particular squashing effect is known as ,Lorentz,contraction,PRODUCT
+148,25,2,"Now, this is a funny sort of conceptual thing, and yesterday we were talking about Danny Hillis' ""","10,000 Year Clock",""" So, we have a motor here on the left, and it goes through a gear train",WORK_OF_ART
+148,49,1,"So I made — this is my first racing sculpture, and I thought, ""Oh, I'm going to make a cart, and I'm going to have it — I'm going to have my hand writing 'faster,' so as I run down the street, the cart's going to talk to me and it's going to go, '",Faster," faster!' "" So, that's what it does",PERSON
+149,18,8," And one day, by chance, some visitors from the ",NIE,"came by in their double-breasted suits looking at this setup, and none of the children who were normally there, except for this one child, were there",ORG
+149,23,7, So if I wanted to call my friend ,Peter Sprague,"on the phone, my secretary would get his head out and bring it and set it on the desk,",PERSON
+150,1,6, ,Lothar Meggendorfer,"put his foot down, and he said, ""Genug ist genug!"" He grabbed his pen, he snatched his scissors",PERSON
+152,17,8," And the software, in a second, will give you ",the Casa da Musica Beethoven,logo,ORG
+152,28,0,,Stefan Sagmeister, Thank you,PERSON
+153,11,13," At the same time, there's a person paying 30,000 dollars  for a 300-series car,   and a person paying 70,000 dollars  for a 700 ",series, and that person paying more than double   doesn't want their car to look too much like  the bottom-of-the-market car,EVENT
+153,12,10,"   So, for me, what was important is that   this coffee set — which is just a coffee pot, a teapot,   and those are the pots sitting on a tray —   that they would have a coherence —  so, they would be ",Greg Lynn Alessi,coffee pots —   but that everyone who bought one   would have a one-of-a-kind object that was unique in some way,PERSON
+153,16,8,   With ,United Architects," also,   we made a proposal for the European Central Bank headquarters   that used the same system,   but this time in a much more monolithic mass,   like a sphere",LOC
+153,16,9,"   With United Architects, also,   we made a proposal for ",the European Central Bank,"headquarters   that used the same system,   but this time in a much more monolithic mass,   like a sphere",ORG
+153,17,4,"   So, for these interiors, like this shop in Stockholm, Sweden,   or this installation wall in the ",Netherlands,"  at the Netherlands Architecture Institute,   we could use the texture that the tool would leave   to produce a lot of the spatial effects,   and we could integrate the texture of the wall   with the form of the wall with the material",LOC
+153,17,5,"   So, for these interiors, like this shop in Stockholm, Sweden,   or this installation wall in the Netherlands   at ",the Netherlands Architecture Institute,"   we could use the texture that the tool would leave   to produce a lot of the spatial effects,   and we could integrate the texture of the wall   with the form of the wall with the material",ORG
+154,15,5," So, sometimes, ",Wolfram Alpha,will be able to do the whole thing immediately and just give back a whole big program that you can then compute with,PERSON
+154,15,8, This is probably a fairly small piece of ,Mathematica,code that's able to be run here,LOC
+154,29,2, ,Benoit,"has been particularly interested in nested patterns, in fractals and so on, where the structure is something that's kind of tree-like, and where there's sort of a big branch that makes little branches and even smaller branches and so on",LOC
+154,29,4, I think things like the ,Rule 30,cellular automaton get us to a different level,PRODUCT
+154,31,0,CA: ,Stephen Wolfram, thank you,PERSON
+155,10,3, ,The 109th Air National Guard,"flew the most recent shipment of ice back to the coast of Antarctica, where it was boarded onto a freighter, shipped across the tropics to California, unloaded, put on a truck, driven across the desert to the National Ice Core Laboratory in Denver, Colorado, where, as we speak, scientists are now slicing this material up for samples, for analysis, to be distributed to the laboratories around the country and in Europe",ORG
+155,10,6," The 109th Air National Guard flew the most recent shipment of ice back to the coast of Antarctica, where it was boarded onto a freighter, shipped across the tropics to California, unloaded, put on a truck, driven across the desert to ",the National Ice Core Laboratory,"in Denver, Colorado, where, as we speak, scientists are now slicing this material up for samples, for analysis, to be distributed to the laboratories around the country and in Europe",ORG
+155,10,7," The 109th Air National Guard flew the most recent shipment of ice back to the coast of Antarctica, where it was boarded onto a freighter, shipped across the tropics to California, unloaded, put on a truck, driven across the desert to the National Ice Core Laboratory in ",Denver," Colorado, where, as we speak, scientists are now slicing this material up for samples, for analysis, to be distributed to the laboratories around the country and in Europe",LOC
+155,10,8," The 109th Air National Guard flew the most recent shipment of ice back to the coast of Antarctica, where it was boarded onto a freighter, shipped across the tropics to California, unloaded, put on a truck, driven across the desert to the National Ice Core Laboratory in Denver, ",Colorado," where, as we speak, scientists are now slicing this material up for samples, for analysis, to be distributed to the laboratories around the country and in Europe",LOC
+157,3,0,""" And ",Chip Taylor," our monarch butterfly expert, he replied, ""Nothing lasts forever",PERSON
+158,19,3, Instead the fuel not only generated our ,Big Bang," but it would also generate countless other Big Bangs, each giving rise to its own separate universe with our universe becoming but one bubble in a grand cosmic bubble bath of universes",PERSON
+158,19,4," Instead the fuel not only generated our Big Bang, but it would also generate countless other ",Big Bangs, each giving rise to its own separate universe with our universe becoming but one bubble in a grand cosmic bubble bath of universes,ORG
+158,29,1," Thank you, ",Brian, (BG: My pleasure,PERSON
+159,13,3," And as he was dozing off, they were reading from the book of ",Leviticus in the Torah," And they were saying that in the ancient times in the temple in Jerusalem, the priests used to have bread, which they used to place into a special table in the temple in Jerusalem",WORK_OF_ART
+159,13,4, And they were saying that in the ancient times in the temple in ,Jerusalem," the priests used to have bread, which they used to place into a special table in the temple in Jerusalem",LOC
+159,13,6," The man was asleep, but he heard the words bread, temple, ",God, and he woke up,PERSON
+159,18,0, ,Rabbis,always spoil things,PERSON
+160,19,6, Number one group on ,Meetup,"right now, most chapters in most cities with most members, most active? Stay-at-home moms",PERSON
+160,19,7," Right? In the suburbanized, dual-income ",United States," stay-at-home moms are actually missing the social infrastructure that comes from extended family and local, small-scale neighborhoods",LOC
+160,19,10, This is so much more important than ,Xbox, but it's a lot less glitzy,PERSON
+161,28,4, One of the great stories I love to tell is about my love of going to my hometown of New York and walking up ,Park Avenue,on a beautiful day and admiring everything and seeing all the people go by from all over the world,ORG
+161,28,5, I even did it when I was Secretary of ,State," I'd come out of my suite at the Waldorf Astoria — (Laughter) — be walking up the street, and I would hit around 55th Street looking for the immigrant pushcart peddler",ORG
+161,28,6, I'd come out of my suite at ,the Waldorf Astoria,"— (Laughter) — be walking up the street, and I would hit around 55th Street looking for the immigrant pushcart peddler",ORG
+161,28,7," I'd come out of my suite at the Waldorf Astoria — (Laughter) — be walking up the street, and I would hit around ",55th Street,looking for the immigrant pushcart peddler,ORG
+161,28,11," In those days, I had five bodyguards around me and three ",New York City,police cars would roll alongside to make sure nobody whacked me while I was going up Park Avenue,LOC
+161,30,3, It was on a Tuesday evening down by ,Columbus Circle, And the scene repeats itself so often,LOC
+162,13,7, Francis of ,Assisi," Gandhi — he adored his contemporary, Gandhi",LOC
+162,13,8," Francis of Assisi, ",Gandhi,"— he adored his contemporary, Gandhi",PERSON
+162,16,3," Einstein became a humanitarian, not because of his exquisite knowledge of space and time and matter, but because he was a ",Jew,as Germany grew fascist,PERSON
+162,16,4," Einstein became a humanitarian, not because of his exquisite knowledge of space and time and matter, but because he was a Jew as ",Germany,grew fascist,LOC
+162,16,5, And ,Karen Armstrong," I think you would also say that it was some of your very wounding experiences in a religious life that, with a zigzag, have led to the Charter for Compassion",PERSON
+162,16,6," And Karen Armstrong, I think you would also say that it was some of your very wounding experiences in a religious life that, with a zigzag, have led to ",the Charter for Compassion, Compassion can't be reduced to sainthood any more than it can be reduced to pity,ORG
+162,17,1,So I want to propose a final definition of compassion — this is Einstein with ,Paul Robeson,by the way — and that would be for us to call compassion a spiritual technology,PERSON
+163,6,11, We are missing the stories of ,Violet," who, despite surviving genocide in the church massacre, she kept on going on, burying bodies, cleaning homes, cleaning the streets",ORG
+163,15,0,,Rumi," a 13th-century Sufi poet, says, ""Out beyond the worlds of right-doings and wrong-doings, there is a field",ORG
+164,36,8," Over here, ",Tommy,s got what you call the heart position,PERSON
+164,50,0,AK: ,Mikey Brett,from Leicestershire,PERSON
+164,50,1,AK: Mikey Brett from ,Leicestershire," (Applause) Mikey Brett, Craig, Leo, Zem Joaquin and Basil and me",LOC
+164,50,3," (Applause) Mikey Brett, ",Craig," Leo, Zem Joaquin and Basil and me",PERSON
+164,50,4," (Applause) Mikey Brett, Craig, ",Leo, Zem Joaquin and Basil and me,PERSON
+164,50,5," (Applause) Mikey Brett, Craig, Leo, ",Zem Joaquin,and Basil and me,PERSON
+164,50,6," (Applause) Mikey Brett, Craig, Leo, Zem Joaquin and ",Basil,and me,PERSON
+165,25,12,""" I said, ""Any chance you know Willie Brown?"" (Laughter) As a matter of fact he did know Willie Brown, and ",Willie Brown,"and Herbie and I had dinner four years ago, and we started drawing out that center on the tablecloth",PERSON
+165,25,13,""" I said, ""Any chance you know Willie Brown?"" (Laughter) As a matter of fact he did know Willie Brown, and Willie Brown and ",Herbie,"and I had dinner four years ago, and we started drawing out that center on the tablecloth",PERSON
+165,25,18,""" And he got me five acres of land on ",San Francisco Bay,"and we got an architect and we got a general contractor and we got Herbie on the board, and our friends from HP, and our friends from Steelcase, and our friends from Cisco, and our friends from Wells Fargo and Genentech",LOC
+165,25,19,""" And he got me five acres of land on San Francisco Bay and we got an architect and we got a general contractor and we got Herbie on the board, and our friends from ",HP," and our friends from Steelcase, and our friends from Cisco, and our friends from Wells Fargo and Genentech",LOC
+165,25,20,""" And he got me five acres of land on San Francisco Bay and we got an architect and we got a general contractor and we got Herbie on the board, and our friends from HP, and our friends from ",Steelcase," and our friends from Cisco, and our friends from Wells Fargo and Genentech",PERSON
+165,25,21,""" And he got me five acres of land on San Francisco Bay and we got an architect and we got a general contractor and we got Herbie on the board, and our friends from HP, and our friends from Steelcase, and our friends from ",Cisco, and our friends from Wells Fargo and Genentech,LOC
+165,25,22,""" And he got me five acres of land on San Francisco Bay and we got an architect and we got a general contractor and we got Herbie on the board, and our friends from HP, and our friends from Steelcase, and our friends from Cisco, and our friends from ",Wells Fargo,and Genentech,ORG
+165,25,23,""" And he got me five acres of land on San Francisco Bay and we got an architect and we got a general contractor and we got Herbie on the board, and our friends from HP, and our friends from Steelcase, and our friends from Cisco, and our friends from Wells Fargo and ",Genentech,,ORG
+165,29,0, In ,Pennsylvania,"it costs 60,000 dollars to keep people in jail, most of whom look like me",LOC
+165,29,3," It's 40,000 dollars to build ",the University of Pittsburgh Medical School," It's 20,000 dollars cheaper to build a medical school than to keep people in jail",ORG
+165,29,5, I am banking on you and I'm banking on guys like ,Herbie,and Quincy and Hackett and Richard and very decent people who still believe in something,LOC
+165,29,6, I am banking on you and I'm banking on guys like Herbie and ,Quincy,and Hackett and Richard and very decent people who still believe in something,PERSON
+165,29,7, I am banking on you and I'm banking on guys like Herbie and Quincy and ,Hackett,and Richard and very decent people who still believe in something,PERSON
+166,6,16," What I have showed you here is only the species from Africa, ",Adansonia,digitata,LOC
+166,6,18, We have six species yet in ,Madagascar," and we don't know what is the potential of this plant, but one thing we know is that the flora is considered to be threatened with extinction",LOC
+166,10,1," Now, ",Centella,"asiatica grows across the world in many different habitats — in Africa, in Asia — and this plant has been instrumental in providing a solution to that dreadful disease called leprosy in Madagascar in the 1940s",PERSON
+167,3,7," They are sold in the name of forced labor, ",camel jockeying," anything, everything",ORG
+167,18,0,I'm not asking you all to become ,Mahatma Gandhis,"or Martin Luther Kings, or Medha Patkars, or something like that",PERSON
+167,18,1,I'm not asking you all to become Mahatma Gandhis or ,Martin Luther Kings," or Medha Patkars, or something like that",PERSON
+167,18,2,"I'm not asking you all to become Mahatma Gandhis or Martin Luther Kings, or ",Medha Patkars, or something like that,PERSON
+168,21,7,""" (Applause) And I like this one, """,Snow Has Returned to Kilimanjaro,""" (Laughter) And finally, an eBay listing for one well-traveled slide show, now obsolete, museum piece",WORK_OF_ART
+168,21,8,""" (Laughter) And finally, an ",eBay,"listing for one well-traveled slide show, now obsolete, museum piece",ORG
+168,21,10, Please contact ,Al Gore," And I believe that, working together, we can make all of these things happen",PERSON
+169,18,15, So we can say with a high degree of confidence that the severe Texas and ,Moscow,heatwaves were not natural; they were caused by global warming,LOC
+169,18,16," An important impact, if global warming continues, will be on the breadbasket of our nation and the world, the ",Midwest,"and Great Plains, which are expected to become prone to extreme droughts, worse than the Dust Bowl, within just a few decades, if we let global warming continue",LOC
+169,18,17," An important impact, if global warming continues, will be on the breadbasket of our nation and the world, the Midwest and ",Great Plains," which are expected to become prone to extreme droughts, worse than the Dust Bowl, within just a few decades, if we let global warming continue",ORG
+170,18,0,"♫ Together: The Jill and Julia, the ",Jill,"and Julia, the Jill and Julia Show",PERSON
+170,47,2," I mean, I watch Oprah mostly when I'm home in ",Spokane,visiting my mother,ORG
+170,47,3," And to my mother, ",Oprah,"is a greater moral authority than the Pope, which is actually saying something because she's a devout Catholic",PERSON
+170,47,9," And that was that she did two entire shows promoting that movie """,The Secret,""" Do you guys know about that movie ""The Secret""? It makes ""What the Bleep Do We Know"" seem like a doctoral dissertation from Harvard on quantum mechanics — that's how bad it is",WORK_OF_ART
+170,47,11,""" Do you guys know about that movie ""The Secret""? It makes """,What the Bleep Do We Know, seem like a doctoral dissertation from Harvard on quantum mechanics — that's how bad it is,WORK_OF_ART
+170,47,12,""" Do you guys know about that movie ""The Secret""? It makes ""What the Bleep Do We Know"" seem like a doctoral dissertation from ",Harvard,on quantum mechanics — that's how bad it is,ORG
+170,47,13,""" Do you guys know about that movie ""The Secret""? It makes ""What the Bleep Do We Know"" seem like a doctoral dissertation from Harvard on ",quantum mechanics,— that's how bad it is,ORG
+170,47,14," It makes """,The DaVinci Code," seem like ""War and Peace",WORK_OF_ART
+170,47,15," It makes ""The DaVinci Code"" seem like """,War and Peace,""" That movie is so horrible",WORK_OF_ART
+170,47,16," On a scientific basis, it's more than just """,Power of Positive Thinking," — it has a horrible, horrible dark side",WORK_OF_ART
+170,47,17, And all I'm saying is that I really wish that ,Murray Gell-Mann,"would go on Oprah and just explain to her that the law of attraction is, in fact, not a law",PERSON
+171,0,1,"In 1977, the physicist ",Edward Purcell,"calculated that if you push a bacteria and then let go, it will stop in about a millionth of a second",PERSON
+171,0,5," In 1883, the physicist ",Osborne Reynolds,figured out that there is one simple number that can predict how a fluid will behave,PERSON
+171,0,7, It's called the ,Reynolds,"number, and it depends on simple properties like the size of the swimmer, its speed, the density of the fluid, and the stickiness, or the viscosity, of the fluid",PERSON
+171,0,9," To imagine what it would feel like to be a sperm, you need to bring yourself down to its ",Reynolds,number,ORG
+171,0,11," By cleverly flexing their paddle to create more drag on the power stroke than on the recovery stroke, single-celled organisms like ",paramecia,manage to inch their way through the crowd of water molecules,LOC
+171,0,13, ,H. pylori,"lives only in the slimy, acidic mucus inside our stomachs",PERSON
+172,16,5, My colleagues ,Tal Yarkoni,and Russ Poldrack have shown that the insula pops up in almost a third of all brain imaging studies that have ever been published,PERSON
+172,16,6, My colleagues Tal Yarkoni and ,Russ Poldrack,have shown that the insula pops up in almost a third of all brain imaging studies that have ever been published,PERSON
+172,20,2," These scans, the clinics say, can help prevent Alzheimer's disease, solve weight and addiction issues, overcome marital conflicts, and treat, of course, a variety of mental illnesses ranging from depression to anxiety to ",ADHD, This sounds great,ORG
+173,17,13," And in fact, George Bush and ",Tony Blair,are having great fun during all of this,PERSON
+173,19,1," So, ",Jamie Oliver,"and school dinners; Bush and Blair having difficulty getting alongside Muslim culture; the whole of the hunting issue, and the royal family refusing to stop hunting; and the tsunami issues; and obviously Harry; Blair's views on Gordon Brown, which I find very interesting; Condi and Bush",PERSON
+173,19,2," So, Jamie Oliver and school dinners; ",Bush,"and Blair having difficulty getting alongside Muslim culture; the whole of the hunting issue, and the royal family refusing to stop hunting; and the tsunami issues; and obviously Harry; Blair's views on Gordon Brown, which I find very interesting; Condi and Bush",PERSON
+173,19,3," So, Jamie Oliver and school dinners; Bush and ",Blair,"having difficulty getting alongside Muslim culture; the whole of the hunting issue, and the royal family refusing to stop hunting; and the tsunami issues; and obviously Harry; Blair's views on Gordon Brown, which I find very interesting; Condi and Bush",PERSON
+173,19,7," So, Jamie Oliver and school dinners; Bush and Blair having difficulty getting alongside Muslim culture; the whole of the hunting issue, and the royal family refusing to stop hunting; and the tsunami issues; and obviously Harry; Blair's views on ",Gordon Brown, which I find very interesting; Condi and Bush,PERSON
+173,19,8," So, Jamie Oliver and school dinners; Bush and Blair having difficulty getting alongside Muslim culture; the whole of the hunting issue, and the royal family refusing to stop hunting; and the tsunami issues; and obviously Harry; Blair's views on Gordon Brown, which I find very interesting; ",Condi,and Bush,PERSON
+174,0,4, Since ,Emile Boirac,"introduced déjà vu as a French term meaning ""already seen,"" more than 40 theories attempt to explain this phenomenon",PERSON
+175,3,5," That little hole in the middle there is for the pollen tube, and when the pollen finds its special female spot in another ",Morina,"flower, just on the right species, what happens? Like I said, pollen carries the male sex cells",LOC
+175,6,3," And I'm rather proud to say that this was found just near London, and that 55 million years ago ",London,was full of mangroves,LOC
+175,11,0, Thank you to the colleagues at ,Kew, and thank you to palynologists everywhere,PERSON
+176,6,8," These are not just crop plants, as you might have seen stored in ",Svalbard,in Norway — fantastic work there,ORG
+176,6,9," These are not just crop plants, as you might have seen stored in Svalbard in ",Norway,— fantastic work there,LOC
+176,8,1,"We have training going on in China, in the ",USA, and many other countries,LOC
+178,17,17, Protected areas provide hope that the creatures of ,Ed Wilson's,"dream of an encyclopedia of life, or the census of marine life, will live not just as a list, a photograph, or a paragraph",PERSON
+178,18,6, 97 percent of the land in ,the Galapagos Islands,"is protected, but the adjacent sea is being ravaged by fishing",LOC
+179,15,7,"' And the thing is,"" says ",Ira Glass," ""we need this",PERSON

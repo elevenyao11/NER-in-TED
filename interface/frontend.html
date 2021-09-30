@@ -1,0 +1,136 @@
+<html>
+
+<head>
+	<script language="javascript" type="text/javascript" src="frontend.js"> </script>
+	<link rel="stylesheet" type="text/css" href="frontend.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+	<script type="text/javascript">
+		$(function () {
+			$('#submit-button').click(function () {
+				$('.content_hide').show();
+			});
+		});
+		function check_keyword() {
+
+			var key = document.getElementById("search");
+			var key_disp = document.getElementById("disp_search");
+			if (key.value.length == 0) {
+				alert("Please Enter some text to search!!!");
+				return false;
+			}
+			else {
+
+				update_page()
+			}
+
+		}
+	</script>
+	<style>
+		table {
+			font-family: arial, sans-serif;
+			border-collapse: collapse;
+			width: 100%;
+		}
+
+		h1 {
+			text-align: center;
+		}
+
+		td,
+		th {
+			border: 1px solid #dddddd;
+			text-align: left;
+			padding: 8px;
+		}
+	</style>
+	<title>TED Talks Named Entity Annotation</title>
+</head>
+
+<body>
+	<div>
+		<div>
+			<br>
+			<h1>Named Entity Annotated Multilingual Corpus based on TED Transcripts</h1>
+			<br>
+			<div class="d-flex justify-content-center">
+				<a onClick="window.location.reload()" style="cursor: pointer;">
+					<buttom type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#myModalll">
+						Main Page
+					</buttom>
+				</a>
+				&nbsp;&nbsp;&nbsp;
+				<form action="/demo/" id="demo-form">
+					<buttom type="button" onclick="update_page5();" class="btn btn-outline-primary">Demo Video!
+					</buttom>
+				</form>
+				&nbsp;&nbsp;&nbsp;
+				<form action="/about/" id="about-form">
+					<buttom type="button" onclick="update_page2();" class="btn btn-outline-info">About
+					</buttom>&nbsp;&nbsp;&nbsp;
+				</form>
+				<form action="/how-to-use/" id="how-to-use-form">
+					<button type="button" onclick="update_page3();" class="btn btn-outline-success" data-toggle="modal"
+						data-target="#myModalll">
+						How to Use
+					</button>
+				</form>
+				&nbsp;&nbsp;&nbsp;
+				<form action="/dataviz/" id="dataviz-form">
+					<button type="button" onclick="update_page4();" class="btn btn-outline-danger" data-toggle="modal"
+						data-target="#myModalll">
+						Data Visualization
+					</button>
+				</form>
+				</form>
+			</div>
+
+			<br>
+		</div>
+		<div>
+
+		</div>
+		<div class="container" id="container">
+			<form action="/corpus/" id="form">
+				<div>
+					Enter keyword/entity/label: <input type="text" name="keyword" id="search"
+						placeholder="keyword/entity/label"><br><br>
+					<!-- <div class="event_button"> -->
+					Select mode: <select name="mode">
+						<option name="mode" value="text" checked> Search by keyword
+						<option name="mode" value="entity"> Search by entity
+						<option name="mode" value="label"> Search by label
+					</select><br><br>
+					Select language option: <select name="language">
+						<option value="all" checked>English+Korean+Chinese</option>
+						<option value="ko">English+Korean</option>
+						<option value="cn">English+Chinese</option>
+						<option value="en_only">English</option>
+					</select>
+				</div>
+				<br>
+				<div class="content_hide" style="display:none">
+					Enter an index number of a paragraph for displaCy:
+					<input type="text" name="displacy_index" placeholder="(optional) index"><br>
+					Rendered Language:
+					<input type="radio" name="render_language" value="en" checked> English
+					<input type="radio" name="render_language" value="cn"> Chinese
+				</div>
+				<br>
+				<div class="submit-button">
+					<button type="button" onclick="check_keyword();" class="btn btn-info" id="submit-button"> Submit
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="container" id="maintext">
+	</div>
+	</div>
+
+
+</body>
+
+
+</html>

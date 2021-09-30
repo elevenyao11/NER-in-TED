@@ -1,0 +1,9 @@
+fastapi
+fastapi.responses
+uvicorn[standard]
+aiofiles
+nltk
+matplotlib
+numpy
+spacy
+pandas

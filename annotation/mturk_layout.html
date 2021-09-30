@@ -1,0 +1,161 @@
+<style type="text/css">
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif, Albertus;}
+.style2 {font-family: Arial, Helvetica, sans-serif, Albertus; color: #330066; }
+.style3 {
+	font-family: Arial, Helvetica, sans-serif, Albertus;
+	color: #000099;
+	font-weight: bold;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif, Albertus; font-size: 80%;}
+.style5 {color: #000099}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 4px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+-->
+</style>
+
+
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+
+    <!-- The crowd-classifier element will create a tool for the Worker to select the
+           correct answer to your question -->
+           
+    <h3 class="style1">Correcting Errors of Automatically-Generated Named Entity Annotations</h3>
+    
+    <crowd-classifier
+      name="Label"
+      categories="['YES','NO: PERSON', 'NO: ORG','NO: LOC','NO: PRODUCT','NO: EVENT','NO: WORK_OF_ART','NO: N/A']"
+      header="Is this label correct for the entity (in bold)?"
+    >
+
+      <classification-target>
+        <!-- The text you want classified will be substituted for the "text" variable when you 
+               publish a batch with a CSV input file containing multiple text items  -->
+        <p>If the label is correct, choose <b>"YES"</b>, if not, choose <b>"NO" and the correct label</b> for the entity.</p>
+        <p><b>Label short descriptions (more in Instructions)</b><p>
+        <p class="style4"><b>YES</b>: when the current label is correct
+            <br><b>PERSON</b>: people including fictional || <b>ORG (organization)</b>: facilities, companies, agencies, institutions, etc
+            <br><b>LOC (location)</b>: cities, states, countries, mountain, water ranges etc. || <b>PRODUCT</b>: objects, vehicles, foods, etc.
+            <br><b>EVENT</b>: named hurricanes, battles, wars, sports events, etc. ||<b>WORK_OF_ART</b>: title of books, songs, paintings, etc.
+            <br><b>N/A</b>: none of the above.</p>
+        <p class="style1"><b><span class="style5">Task: Is the label(${label}) correct for the <b>entity(${entities})</b> in this context?</span></b>
+          <p class="style1">...${before} <b>${entities}</b> ${after}...
+          <br>Label: <b>${label}</b>
+          </p>
+        
+      </classification-target>
+
+     <!-- Use the short-instructions section for quick instructions that the Worker
+            will see while working on the task. Including some basic examples of 
+            good and bad answers here can help get good results. You can include 
+            any HTML here. -->
+      <short-instructions>
+       <p class="style1">Decide whether the label is correct or not for the given entity.
+  	<br/>Each entity is in bold, and it is around a short context. <br/>If it is not correct, please choose the entity that you can think of the best fit.</p>
+    
+    <p class="style1">For example,</p>
+      <blockquote>
+        <p class="style1">... Since I was younger, I have been using <b>iPhone</b> because I love the design ...<br /></p>
+      </blockquote>
+      <blockquote>
+        <p class="style1">Label: <b>PRODUCT</b></p>
+      </blockquote>
+    
+    <p class="style1"> The correct answer is <b>YES</b>, since <b>iPhone</b> is a product.</p>
+<p class="style1"> Your response will be used to correct errors of automatically-generated named entity labels developed as a part of an academic research project in parallel NER corpus construction.</p>
+    
+    <p class="style2">Label Descriptions</p>
+    <p class="style1">In order to see the examples of each label, please click "More Instructions" below.</p>
+    	<ul>
+        	<li>PERSON: People, including fictional.</li>
+            <li>ORG: Facilities, Companies, agencies, institutions, etc.</li>
+            <li>LOC: Locations - Countries, Cities, Geographical locations, etc.</li>
+            <li>PRODUCT: Objects, vehicles, foods, etc (Not services.)</li>
+            <li>EVENT: Named hurricanes, battles, wars, sports events, etc.</li>
+            <li>WORK_OF_ART: Title of books, songs, etc.</li>
+            <li>N/A: None of the above.</li>
+        </ul>
+    
+      </short-instructions>
+
+      <!-- Use the full-instructions section for more detailed instructions that the 
+            Worker can open while working on the task. Including more detailed 
+            instructions and additional examples of good and bad answers here can
+            help get good results. You can include any HTML here. -->
+      <full-instructions header="Named Entity Error Correction Instructions">
+          
+                  <p class="style3">Label Description</p>
+
+          <table>
+            <tr>
+              <th>Label</th>
+              <th>Description</th>
+              <th>Examples</th>
+            </tr>
+            <tr>
+              <td>PERSON</td>
+              <td>People, including fictional</td>
+              <td>Harry Potter, Emma Watson, John</td>
+            </tr>
+            <tr>
+              <td>ORG</td>
+              <td>Facilities, Companies, agencies, institutions, etc.</td>
+              <td>Google, Apple</td>
+            </tr>
+            <tr>
+              <td>LOC</td>
+              <td>Cities, States, Countries, mountain ranges, bodies of water.
+          </td>
+          <td>North America, Mont-blanc, New York City
+          </td>
+            </tr>
+            <tr>
+              <td>PRODUCT</td>
+              <td>Objects, vehicles, foods, etc (Not services.)</td>
+              <td>MacBook, Tesla model x</td>
+            </tr>
+            <tr>
+              <td>EVENT</td>
+              <td>Named hurricanes, battles, wars, sports events, etc.</td>
+              <td>WW2, battle of waterloo</td>
+            </tr>
+            <tr>
+              <td>WORK_OF_ART</td>
+              <td>Title of books, songs, etc.</td>
+              <td>The diary of Anne Frank,
+              Pride and Prejudice
+              </td>
+            </tr>
+             <tr>
+              <td>N/A</td>
+              <td>None of the above.</td>
+              <td>-</td>
+            </tr>
+          </table>
+          
+      </full-instructions>
+    </crowd-classifier>
+</crowd-form> 

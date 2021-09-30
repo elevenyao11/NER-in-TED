@@ -1,0 +1,33 @@
+# HOW TO USE (GROUP 2) 
+- This text explains how to use the interface. This is also included in the application.
+
+1. Enter a keyword, an entity, or a label in the first textbox.
+- NOTE: You can only search using an English keyword.
+- Keyword: any words that appear in the corpus. (e.g. green, music, iPhone, etc.)
+- Entity: named entities. (e.g. iPhone, Beethoven, Google, etc.)
+- Label: labels of named entities (available option: LOC, PERSON, EVENT, PRODUCT, ORG, WORK_OF_ART)
+
+2. Select a mode (the second dropdown)
+- Search by keyword: search for the parallel paragraphs in the corpus using a keyword (max character length:500)
+    - To see the full text, you need to select a paragraph index in the textbox for displaCy.
+- Search by entity: search for the contexts surrounding a named entity in the corpus.
+- Search by label: search for the contexts surrounding a named entity label in the corpus.
+
+3. Select a language option
+- NOTE: This function is only available with the Search by keyword mode.
+- English+Korean+Chinese: display paragraphs of all languages.
+- English+Korean: display paragraphs in English, Korean.
+- English+Chinese: display paragraphs in English, Chinese.
+
+4. (optional) Enter an index of paragraph for displaCy<
+- NOTE: This function is only available with the Search by keyword mode.
+- After clicking the submit button once, this option will appear.
+- You can enter an index number of a paragraph of the table (the left most column in the table) to see the rendered version of text from displaCy and the named entity annotations.</p>
+- You can also choose in which language you would like to display the paragraph (either English or Chinese).
+
+
+# additional option
+- "Main Page": This button moves the page to the main page.
+- "About": This section shows the project overview and contributors.
+- "How to Use": This section shows the instructions for using the interface.
+- "Data Visualization": This section shows the images of data visualizations of the corpus.
